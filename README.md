@@ -1,7 +1,13 @@
-🎨 My Creative Projects
-Welcome to my world of front-end development! I am a goal-oriented Junior Frontend Developer skilled in JavaScript, React, and Next.js. My passion lies in crafting engaging user experiences that not only meet client expectations but also delight users. Below, you’ll find a curated selection of my projects that blend functionality with a touch of artistry.
+<h1>Heyy I am Filip - Front-End Developer</h1>
+______________________________________________
 
-<h1> Project Showcase</h1>
+<h2>About me</h2>
+Goal-oriented Frontend Developer skilled in JavaScript, React, and Next.js, eager to create engaging user experiences and advance my professional career. I thrive on challenges and believe in continuous learning, always seeking opportunities to improve my skills.
+I prioritize user experience in every project, focusing on intuitive navigation and visually appealing designs that resonate with users. My passion lies in developing innovative platforms that deliver high value, transforming ideas into functional applications. I’m committed to staying current with the latest technologies and best practices to ensure I deliver top-quality work.
+
+In addition to user experience, I place great emphasis on writing maintainable code, ensuring that my projects are easy to update and scale in the future. Creating fully responsive websites is another key focus; I strive to provide seamless experiences across all devices.
+
+I thrive in collaborative environments, valuing feedback and working together with others to achieve success. When faced with challenges, I approach them with creativity and determination, adapting to new situations with ease.
 
 <h2> Safe Web Project 🌐</h2>
 
@@ -14,6 +20,23 @@ Badge System: Earn activity-based badges for milestones like watching videos and
 Profile Management: Register, log in, and update profile details, such as email and birth date.
 
 
+<h2>LargerWorld - Real World Client 🌍</h2>
+
+**Project Overview**:  
+**larger.world** is a platform designed to introduce users to the concept of unlearning and its impact on building a more sustainable and inclusive world. The goal of this project is to inspire users to explore the platform's resources and become active members of the community.
+
+### Key Features
+- **User-Centered Design**: The platform is built with a strong focus on user experience, ensuring ease of navigation and engagement with the content.
+- **Visual Appeal**: Incorporating rounded visual shapes inspired by our logo creates a welcoming and cohesive design.
+- **Interactive Animations**: Special attention was given to animations and visual transitions to enhance user enjoyment and memorability.
+
+### Technologies Used
+- **React**: Developed using React for a dynamic and responsive user interface.
+- **CSS3**: For styling and implementing the brand's visual identity, including rounded shapes and smooth animations.
+- **React Router**: To manage navigation and ensure seamless transitions between different sections of the platform.
+
+---
+
 <h2> Macedonian Human Resources Association (MHRA) Web Application 👥</h2>
 
 Overview: The MHRA web application provides members with easy access to association activities, upcoming events, and valuable resources, keeping members engaged with the latest HR community news.
@@ -24,69 +47,20 @@ Key Features:
 👥 MHRA Board: Meet the board members, view their roles and professional backgrounds.
 🎫 User Dashboard: View membership cards and manage profile information.
 🌐 Language Support: Automatic English translation when accessed outside Macedonia, with a manual language toggle.
-🌟 Why Work With Me?
 
-I thrive on challenges and believe in continuous learning. My dedication to front-end development is matched only by my desire to contribute positively to a team. Here are a few reasons why I would be a valuable addition to your organization:
+<h2> Sparkasse Bank Web Application 🚀</h2>
+Overview: The Sparkasse Bank web application, developed during a hackathon, is the first platform for financial education for young people in the country. It aims to inform and help young people learn more about investing and savings while providing a seamless banking experience. My team and I successfully integrated front-end and back-end functionalities, including user registration and login logic.
 
-User-Centric Mindset: I prioritize the user experience in every project, ensuring intuitive navigation and visually appealing designs.
-Commitment to Learning: I stay current with the newest technologies and eagerly adopt the latest best practices to enhance my skills and deliver top-quality work.
-Passionate about Responsiveness: I am dedicated to creating fully responsive websites that provide seamless experiences across all devices.
-Collaborative Spirit: I enjoy working in team environments, valuing feedback and collaboration to drive success.
-Adaptable and Resourceful: I approach problems with creativity and determination, adapting to new challenges with ease.
-🛠️ My Toolkit
-Languages:
-🌐 HTML
-🎨 CSS (Sass)
-⚙️ JavaScript (ES6+)
-Frameworks/Libraries:
-React, Next.js
-Version Control:
-Git, GitHub, GitLab'
+Tech Stack: Next.js (for SEO) and Laravel PHP (for the backend)
 
-<h2>🚀 Getting Started</h2>
-
-Ready to dive in? Here’s how to set up my projects locally:
-
-Clone the repository:
-bash
-Copy code
-git clone https://github.com/yourusername/project-name.git
-
-
-🎨✨ My Creative Projects ✨🎨
-Welcome to my world of front-end development! I am a goal-oriented Junior Frontend Developer skilled in JavaScript, React, and Next.js. My passion lies in crafting engaging user experiences that not only meet client expectations but also delight users. Below, you’ll find a curated selection of my projects that blend functionality with a touch of artistry.
-
-<h2>🌈 Project Showcase</h2>
-
- Safe Web Project 🛡️
-Description: A platform that promotes safe browsing through interactive discussions and educational videos.
-Tech Stack:
 Key Features:
-💬 Discussions: Start and join discussions on safe web practices.
-🎥 Videos: Watch educational videos with a comment feature for logged-in users.
-🏅 Badge System: Earn badges for milestones like watching videos and participating in discussions.
-👤 Profile Management: Log in, and update profile details.
 
- Macedonian Human Resources Association (MHRA) Web Application 👥
-Overview: The MHRA web application provides members with easy access to association activities, upcoming events, and valuable resources, keeping members engaged with the latest HR community news.
-Tech Stack:
-Key Features:
-📅 Event Management: Browse upcoming MHRA events with calendar integration.
-📰 Blog Section: Access articles on HR practices, trends, and association updates.
-👥 MHRA Board: Meet the board members, view their roles and professional backgrounds.
-🎫 User Dashboard: View membership cards and manage profile information.
-🌐 Language Support: Automatic English translation when accessed outside Macedonia, with a manual language toggle.
-
-
-<h2>🌟 Why Work With Me?</h2>
-
-I thrive on challenges and believe in continuous learning !
-
-User-Centric Mindset: 🎯 I prioritize the user experience in every project, ensuring intuitive navigation and visually appealing designs.
-Commitment to Learning: 📘 I stay current with the newest technologies and eagerly adopt the latest best practices.
-Passionate about Responsiveness: 📱 I am dedicated to creating fully responsive websites for seamless experiences.
-Collaborative Spirit: 🤝 I enjoy team environments, valuing feedback and collaboration.
-Adaptable and Resourceful: 💡 I approach problems with creativity and determination, adapting to new challenges with ease.
+💳 User Registration: Secure and user-friendly registration process for new customers.
+🔐 Login Logic: Robust authentication system to ensure user privacy and security.
+📚 Courses and Badges: Offers personalized courses for users, allowing them to earn badges as they progress.
+👁️ Course Preview: Users can preview courses even if they are not registered, encouraging engagement.
+📊 Course Status: Track the status of each course, providing users with insights into their progress.
+📝 Quizzes: Assess understanding and retention with quizzes after course completion.
 
 <h2>🛠️ My Toolkit</h2>
 - HTML
