@@ -1,0 +1,32 @@
+.custom-demo-button {
+  width: 70%;
+  height: 5vh;
+  border-radius: 30px;
+  background-color: transparent;
+  color: #fa6400;
+  border: 1px solid #fa6400;
+}
+.demoCardContainer {
+  border-bottom: 1px solid #fff;
+  padding-bottom:2rem ;
+}
+
+.photoContainer {
+  width: 20%;
+  display: flex;
+  justify-content: start;
+  align-items: center;
+}
+.textContainer {
+  width: 50%;
+  color: white;
+}
+.buttonContainer {
+    display: flex;
+    justify-content: end;
+    align-items: center;
+  width: 30%;
+}
+.imgElement{
+    width: 50%;
+}

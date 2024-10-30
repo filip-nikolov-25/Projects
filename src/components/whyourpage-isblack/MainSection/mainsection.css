@@ -1,0 +1,35 @@
+.firstItem {
+  margin-left: 3rem;
+}
+.secondItem {
+  margin-left: 6rem;
+}
+.thirdItem {
+  margin-left: 9rem;
+}
+.cetvrti {
+  margin-left: 6rem;
+}
+.fifthItem {
+  margin-left: 3rem;
+}
+.custom-orange {
+  color: #fa6400;
+}
+.text-container-team-members {
+  position: relative;
+}
+.logo-text-nm235 {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+  width: 240px;
+  padding-left: 20px;
+  font-family: Inter;
+  font-size: 24px;
+  font-weight: 500;
+  line-height: 36px;
+  text-align: left;
+  color: white;
+}

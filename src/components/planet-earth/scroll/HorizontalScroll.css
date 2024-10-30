@@ -1,0 +1,426 @@
+.scroll-container {
+  display: flex;
+  overflow-x: hidden;
+  width: 1100vw;
+  height: 100vh;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+}
+.scroll-container::-webkit-scrollbar {
+  display: none;
+}
+
+.scroll-section {
+  flex-shrink: 0;
+  width: 190vw;
+  height: 100vh;
+  position: relative;
+}
+
+.imgContainer-section1 {
+  position: relative;
+  width: 100%;
+  height: 100vh;
+}
+
+.bg-1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 1;
+  object-fit: cover;
+  height: 100vh;
+}
+.bg-1,
+.bg-2,
+.bg-3,
+.bg-4,
+.bg-5,
+.bg-6 {
+  height: 100vh;
+}
+
+.homeImg {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 2;
+  object-fit: cover;
+  height: 100vh;
+}
+.section-1 {
+  width: 10vw;
+}
+
+.imgContainer-section1 {
+  position: relative;
+}
+
+.but6 {
+  position: absolute;
+  left: 1000px;
+  bottom: 0px;
+  z-index: 10;
+  height: 100px;
+  width: 100px;
+  animation: fly 10s infinite linear, flutter 1s infinite ease-in-out;
+  transform-style: preserve-3d; /* Enables 3D transformations */
+}
+.but1 {
+  position: absolute;
+  left: 1000px;
+  bottom: 0px;
+  z-index: 10;
+  height: 100px;
+  width: 100px;
+  animation: fly 10s infinite linear, flutter 1s infinite ease-in-out;
+}
+.but2 {
+  position: absolute;
+  left: 1000px;
+  bottom: 100px;
+  z-index: 10;
+  height: 100px;
+  width: 100px;
+  animation: fly 10s infinite linear, flutter 1s infinite ease-in-out;
+}
+.but3 {
+  position: absolute;
+  left: 1000px;
+  bottom: 0px;
+  z-index: 10;
+  height: 100px;
+  width: 100px;
+  animation: fly 10s infinite linear, flutter 1s infinite ease-in-out;
+}
+.but4 {
+  position: absolute;
+  left: 1000px;
+  bottom: 0px;
+  z-index: 10;
+  height: 100px;
+  width: 100px;
+  animation: fly 10s infinite linear, flutter 1s infinite ease-in-out;
+}
+.but5 {
+  position: absolute;
+  left: 1000px;
+  bottom: 0px;
+  z-index: 10;
+  height: 100px;
+  width: 100px;
+  animation: fly 10s infinite linear, flutter 1s infinite ease-in-out;
+}
+
+.flutter {
+  animation: flutter 5s infinite ease-in-out;
+}
+
+.float {
+  animation: float 5s infinite ease-in-out;
+}
+
+.flap {
+  animation: flap 3s infinite ease-in-out;
+}
+
+
+/* Butterfly Keyframes */
+@keyframes flutter {
+  0%,
+  100% {
+    transform: rotate(0deg);
+  }
+  50% {
+    transform: rotate(10deg);
+  }
+}
+
+@keyframes float {
+  0%,
+  100% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-20px);
+  }
+}
+
+@keyframes flap {
+  0%,
+  100% {
+    transform: scale(1) rotate(0deg);
+  }
+  50% {
+    transform: scale(1.2) rotate(15deg);
+  }
+}
+
+@keyframes zigzag {
+  0% {
+    transform: translateX(0) translateY(0);
+  }
+  25% {
+    transform: translateX(50px) translateY(20px);
+  }
+  50% {
+    transform: translateX(0) translateY(40px);
+  }
+  75% {
+    transform: translateX(-50px) translateY(20px);
+  }
+  100% {
+    transform: translateX(0) translateY(0);
+  }
+}
+
+@keyframes spin {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+@keyframes drift {
+  50% {
+    transform: translateX(30px) translateY(30px);
+  }
+}
+
+@keyframes wave {
+  75% {
+    transform: translateX(20px) translateY(-20px);
+  }
+}
+
+/* Butterfly Styles */
+.butterfly {
+  position: absolute;
+  object-fit: cover;
+  width: 50px;
+  height: 50px;
+  cursor: pointer;
+  transition: 0.3s !important;
+}
+.butterfly:hover {
+  transform: scale(1.2) !important;
+}
+.rock {
+  position: absolute;
+  object-fit: cover;
+  width: 50px;
+  height: 50px;
+}
+
+.div-absolute {
+  position: absolute;
+  z-index: 1000000000000000000000000000000000000000000;
+}
+
+.tree-1 {
+  left: 1300%;
+  position: absolute;
+  z-index: 10000000;
+  height: 85%;
+  bottom: 0;
+}
+
+.tree-2 {
+  left: 1700%;
+  position: absolute;
+  z-index: 10000000;
+  height: 90%;
+  bottom: 0;
+}
+.hedgehog {
+  left: 1820%;
+  position: absolute;
+  z-index: 1000000;
+  height: 90%;
+  bottom: 20px;
+  height: 100px;
+}
+.tree-3 {
+  left: 2530%;
+  position: absolute;
+  z-index: 10000000;
+  height: 100%;
+  bottom: 0;
+}
+.tree-4 {
+  left: 5000%;
+  position: absolute;
+  z-index: 10000000;
+  height: 50%;
+  bottom: 0;
+}
+.table1 {
+  left: 800%;
+  position: absolute;
+  z-index: 10000000;
+  top: 0;
+}
+.table2 {
+  left: 2000%;
+  position: absolute;
+  z-index: 10000000;
+  top: 0;
+}
+.table3 {
+  left: 3000%;
+  position: absolute;
+  z-index: 10000000;
+  top: 0;
+}
+.table4 {
+  left: 4000%;
+  position: absolute;
+  z-index: 10000000;
+  top: 0;
+}
+.table5 {
+  left: 5000%;
+  position: absolute;
+  z-index: 10000000;
+  top: 0;
+}
+.table6 {
+  left: 6000%;
+  position: absolute;
+  z-index: 10000000000;
+  top: 0;
+}
+.table7 {
+  left: 7000%;
+  position: absolute;
+  z-index: 10000000000;
+  top: 0;
+}
+.welcome-to-the-world-a {
+  position: absolute;
+  width: 500%;
+  top: 50%;
+  left: 500%;
+  gap: 30px;
+  transform: translate(-50%, -50%);
+  z-index: 912738912398712738817238971298371290837891273;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  color: white;
+  h1 {
+    font-family: Inter;
+    font-size: 64px;
+    font-weight: 400;
+    line-height: 48px;
+    text-align: left;
+  }
+  .underHeader {
+    font-family: Inter;
+    font-size: 32px;
+    font-weight: 400;
+    line-height: 48px;
+    text-align: center;
+  }
+  i {
+    font-family: Inter;
+    font-size: 32px;
+    font-style: italic;
+    font-weight: 400;
+    line-height: 48px;
+    text-align: center;
+  }
+  .scrollInstructions {
+    font-family: Inter;
+    font-size: 22px;
+    font-weight: 400;
+    line-height: 32px;
+    text-align: center;
+  }
+  img {
+    animation: float 2s ease-in-out infinite;
+  }
+  @keyframes float {
+    0%,
+    100% {
+      transform: translateY(0);
+    }
+    50% {
+      transform: translateY(-20px); /* Adjust the height as needed */
+    }
+  }
+}
+.page-logo-world-a {
+  left: 50px;
+  position: absolute;
+  z-index: 10000000;
+  top: 50px;
+}
+/* ["flutter", "float", "flap", "drift", "wave"] */
+.video-pop-up-a {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  z-index: 999999999999999999999;
+  background-color: rgb(34, 38, 112);
+  position: absolute;
+  left: 100%;
+  top: -50%;
+  padding: 25px;
+  border-top-left-radius: 150px;
+  border-top-right-radius: 150px;
+  height: 500px;
+  img {
+    height: 250px;
+    border-top-left-radius: 150px;
+    border-top-right-radius: 150px;
+  }
+  i {
+    margin-left: auto;
+    margin-top: 10px;
+    font-size: 25px;
+    color: white;
+  }
+  i:hover {
+    color: #fa6400;
+    cursor: pointer;
+  }
+  h2 {
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 18px;
+    text-align: left;
+    color: white;
+  }
+  p {
+    font-family: Inter;
+    font-size: 12px;
+    font-weight: 400;
+    text-align: left;
+    color: white;
+  }
+  a {
+    button {
+      width: 50%;
+      padding: 10px;
+      color: white;
+      border: 1px solid white;
+      border-radius: 20px;
+      background-color: transparent;
+      white-space: nowrap;
+    }
+    button:hover {
+      background-color: #fa6400;
+      border: 1px solid #fa6400;
+    }
+  }
+}

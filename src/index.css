@@ -1,0 +1,9 @@
+body {
+  background: #333333;
+  overflow-x: hidden;
+}
+
+body,
+html {
+  scroll-behavior: auto;
+}

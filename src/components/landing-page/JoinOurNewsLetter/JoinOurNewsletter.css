@@ -1,0 +1,51 @@
+.newsletter {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background: #403f3f;
+  justify-content: center;
+  padding: 50px;
+  gap: 20px;
+
+  form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 30%;
+    gap: 10px;
+    p {
+      color: #b7b7b7;
+      align-self: flex-start;
+      margin-top: -10px;
+      padding-left: 5px;
+    }
+    button {
+      width: 80%;
+      padding: 10px;
+      background: #fa6400;
+      border-radius: 50px;
+      border: none;
+      color: white;
+    }
+    input {
+      background-color: transparent;
+      border: 1px solid white;
+      width: 100%;
+      padding: 10px;
+      border-radius: 20px;
+      color: white;
+    }
+    input:focus {
+      outline: none;
+    }
+  }
+  .header {
+    color: white;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 36px;
+    text-align: center;
+  }
+}

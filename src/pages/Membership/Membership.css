@@ -1,0 +1,11 @@
+.already-a-member {
+  color: white;
+  span {
+    margin-left: 10px;
+    color: #fa6400;
+    cursor: pointer;
+    i {
+      margin: 5px;
+    }
+  }
+}

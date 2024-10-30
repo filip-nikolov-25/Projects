@@ -1,0 +1,55 @@
+.footer-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+  position: relative;
+}
+.static-part {
+  background: #7323f4;
+  z-index: 12312389123791239787891237891237981239;
+  left: 0;
+  right: 0;
+  position: absolute;
+  text-align: center;
+  top: 250%;
+  padding: 30px;
+}
+.footer-holder {
+  position: relative;
+}
+
+.footer-section {
+  background: #7323f4;
+  color: white;
+  padding: 20px;
+  opacity: 0;
+  width: 33.33%;
+  height: 300px;
+  position: relative;
+  transform: translateY(500px);
+  border-top-left-radius: 1000px;
+  border-top-right-radius: 1000px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+/* When the jump class is applied, sections move into view */
+.footer-section.jump {
+  transform: translateY(0); /* Move to the final position */
+  opacity: 1; /* Fade in */
+  transform: translateY(500px);
+}
+
+.footer-section1 {
+  transition: transform 0.4s ease-in-out, opacity 0.4s ease; /* Smooth transition */
+}
+
+.footer-section2 {
+  transition: transform 0.8s ease-in-out, opacity 0.8s ease; /* Smooth transition */
+}
+
+.footer-section3 {
+  transition: transform 1.2s ease-in-out, opacity 1.2s ease; /* Smooth transition */
+}

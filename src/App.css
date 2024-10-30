@@ -1,0 +1,31 @@
+/* CSS Resets */
+* {
+  box-sizing: border-box;
+  text-transform: lowercase !important;
+  font-family: "Inter", sans-serif;
+  padding: 0;
+}
+
+:root {
+  --primary: #fa6400;
+}
+
+.app-text-primary {
+  color: var(--primary) !important;
+}
+
+.blur-2px {
+  filter: blur(2px);
+}
+
+.rotatable-image {
+  transition: transform 0.3s ease-in-out;
+}
+
+.rotatable-image:hover {
+  transform: rotate(120deg);
+}
+
+.cursor-pointer {
+  cursor: pointer;
+}

@@ -1,0 +1,60 @@
+.custom-input {
+  background-color: transparent;
+  border: 1px solid #ccc;
+  border-radius: 2rem;
+  padding: 0.7rem 1.2rem;
+  color: #fff;
+}
+
+.custom-input::placeholder {
+  color: #ccc;
+}
+
+.custom-input:focus {
+  border-color: #fff;
+  box-shadow: none;
+  background-color: transparent;
+  color: #ccc;
+}
+
+.cursor-pointer {
+  cursor: pointer;
+}
+
+.filter-option {
+  cursor: pointer;
+  display: inline-block;
+  padding: 0.5rem 1rem;
+  border-radius: 0.375rem;
+  margin-right: 0.5rem;
+  background-color: transparent;
+  color: #ccc;
+  border: none;
+}
+.headerText {
+  font-size: 3rem;
+  color: white;
+}
+
+.filter-option.active {
+  color: #ff8c00;
+}
+.orange-border-bottom {
+  border-bottom: 2px solid #fa6400;
+  width: 70%;
+  margin-bottom: 1rem;
+}
+
+.filter-select {
+  border: none;
+  background-color: transparent;
+  color: #ccc;
+}
+
+.filter-select option {
+  color: black;
+}
+
+.color-light-gray {
+  color: #ccc;
+}

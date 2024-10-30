@@ -1,0 +1,49 @@
+/* Custom Card Styling */
+.custom-card {
+  width: 300px;
+  background-color: white;
+  border-top-left-radius: 200px;
+  border-top-right-radius: 200px;
+
+  flex: 0 0 auto; /* Prevent cards from shrinking */
+  transition: transform 0.5s ease-in-out; /* Smooth transition */
+}
+
+/* Carousel Container Styling */
+.carousel-wrapper {
+  display: flex;
+  align-items: center;
+  overflow: hidden;
+}
+
+.carousel-container {
+  display: flex;
+  flex-wrap: nowrap;
+  gap: 4px;
+  overflow-x: auto;
+  scroll-behavior: smooth;
+  scroll-snap-type: x mandatory;
+}
+
+.carousel-container::-webkit-scrollbar {
+  display: none; /* Hide scrollbar */
+}
+
+.button-container {
+  margin-right: 15rem;
+}
+
+.title-container {
+  height: 120px;
+}
+
+.title-container img {
+  top: -10%;
+  left: 0%;
+}
+.custom-card p {
+  color: #969696;
+  line-height: 25px;
+  font-size: 14px;
+  padding-bottom: 2rem;
+}

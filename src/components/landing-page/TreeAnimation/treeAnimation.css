@@ -1,0 +1,37 @@
+@keyframes slideInFromLeft {
+    0% {
+      transform: translateX(-100%);
+      opacity: 0;
+    }
+    100% {
+      transform: translateX(0);
+      opacity: 1;
+    }
+  }
+  
+  .singleTree {
+    opacity: 0;
+    transform: translateX(-100%);
+    animation: slideInFromLeft 1s ease-out forwards;
+    width: 33.333%;
+  }
+  
+  .smallTreeImgContainer {
+    animation-delay: 1s;
+    width: 25%; /* Make the first tree smaller */
+  }
+  
+  .withoutLeafsTreeImgContainer {
+    animation-delay: 3s;
+    width: 33.333%; /* Keep the middle tree at a normal size */
+  }
+  
+  .bigTreeImgContainer {
+    animation-delay: 5s;
+    width: 50%; /* Make the last tree bigger */
+  }
+  
+  .noLeafTree {
+    /* Additional styles for the noLeafTree image */
+  }
+  

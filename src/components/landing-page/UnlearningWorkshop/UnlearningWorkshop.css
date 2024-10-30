@@ -1,0 +1,156 @@
+.unlearning-workshop {
+  display: flex;
+  justify-content: space-between;
+  button {
+    margin-top: 20px;
+  }
+  hr {
+    color: white;
+  }
+  .left-side-container {
+    width: 60%;
+
+    .table-row {
+      display: flex;
+      margin-bottom: 5px;
+      width: 100%;
+      justify-content: space-between;
+      .left-side {
+        color: white;
+        width: 30%;
+      }
+      .right-side {
+        width: 70%;
+        ul {
+          list-style: none;
+          padding: 0;
+          margin: 0;
+          li {
+            position: relative;
+            p {
+              margin-bottom: 5px !important;
+            }
+          }
+          li::before {
+            content: "•"; /* Custom bullet */
+            color: white;
+            position: absolute;
+            left: -15px;
+            top: 4px;
+          }
+        }
+      }
+    }
+  }
+  .right-side-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 50%;
+    .tree-holder {
+      height: 690px;
+      position: relative;
+      .custom-paragraph-a {
+        position: absolute;
+        top: -30px;
+        left: 28.5%;
+        color: white;
+        font-size: 32px;
+        font-weight: 400;
+        line-height: 44px;
+        text-align: left;
+        color: #fa6400;
+        white-space: nowrap;
+      }
+      .challenges {
+        position: absolute;
+        top: 163px;
+        right: 68px;
+      }
+      .p-challenges {
+        top: 163px;
+        right: -60px;
+        width: 60px;
+
+        font-family: Inter;
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 28px;
+        text-align: left;
+        color: #fa6400;
+      }
+      .obstacles {
+        position: absolute;
+        top: 229px;
+        right: 76px;
+      }
+      .p-obstacles {
+        top: 229px;
+        right: -60px;
+        width: 60px;
+
+        font-family: Inter;
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 28px;
+        text-align: left;
+        color: #fa6400;
+      }
+      .effort {
+        position: absolute;
+        top: 308px;
+        right: 65px;
+      }
+      .p-effort {
+        top: 308px;
+        right: -60px;
+        width: 60px;
+
+        font-family: Inter;
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 28px;
+        text-align: left;
+        color: #fa6400;
+      }
+      .criticism {
+        position: absolute;
+        top: 404px;
+        right: 63px;
+      }
+      .p-criticism {
+        top: 404px;
+        right: -60px;
+        width: 60px;
+
+        font-family: Inter;
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 28px;
+        text-align: left;
+        color: #fa6400;
+      }
+      .success {
+        position: absolute;
+        top: 511px;
+        right: 57px;
+      }
+      .p-success {
+        top: 516px;
+        right: -60px;
+        width: 60px;
+
+        font-family: Inter;
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 28px;
+        text-align: left;
+        color: #fa6400;
+      }
+      .tree-paragraph {
+        position: absolute;
+      }
+    }
+  }
+}

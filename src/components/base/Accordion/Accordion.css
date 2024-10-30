@@ -1,0 +1,72 @@
+.border-radius-custom {
+  background-color: transparent;
+  border-radius: 50px !important;
+}
+
+.border-radius-custom:focus {
+  outline: none !important;
+}
+
+.transparent-custom {
+  background-color: transparent !important;
+  border: none !important;
+}
+
+.border-custom {
+  border: 1px solid white;
+}
+
+.accordion-button:not(.collapsed) {
+  background-color: transparent;
+  outline: none !important;
+  border-bottom-left-radius: 0 !important;
+  border-bottom-right-radius: 0 !important;
+  border-bottom: 0 !important;
+  color: white;
+  border-bottom: none!important;
+}
+
+.accordion-button:not(.collapsed) + .accordion-collapse .accordion-body {
+  border-top: none;
+  border: 1px solid white;
+  border-bottom-left-radius: 0;
+  border-bottom-right-radius: 0;
+}
+
+.accordion-button:focus {
+  box-shadow: none;
+  outline: none;
+  color: white;
+}
+
+.accordion-body-custom {
+  color: white;
+  border-bottom: 1px solid white;
+  border-right: 1px solid white;
+  border-left: 1px solid white;
+  border-bottom-left-radius: 50px;
+  border-bottom-right-radius: 50px;
+  transition: 1s !important;
+}
+
+.accordion-button::after {
+  background-image: url("../../../../public/images/aboutPage/ourTeam/accordionArrow.svg");
+  transform: var(--bs-accordion-btn-icon-transform);
+  rotate: 180deg !important;
+  transition: 0.2s;
+}
+.accordion-button:not(.collapsed)::after {
+  background-image: url("../../../../public/images/aboutPage/ourTeam/accordionArrow.svg");
+  transform: var(--bs-accordion-btn-icon-transform);
+  transition: 0.2s;
+  transform: rotate(0);
+}
+
+.accordion-button.collapsed:hover {
+  background-color: #fa6400;
+  font-weight: bold;
+}
+
+.accordion-button {
+  color: white;
+}

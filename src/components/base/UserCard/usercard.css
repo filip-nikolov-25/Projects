@@ -1,0 +1,19 @@
+.userImg {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+}
+.custom-border {
+  border-bottom: 1px solid #7323f4;
+  padding: 0.5rem 1rem;
+}
+
+.positionOfTeamMember {
+  font-size: 12px;
+  color: grey;
+  margin: 0;
+}
+.height-100-custom {
+  height: 100%;
+  align-items: center;
+}
