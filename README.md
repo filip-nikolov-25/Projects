@@ -71,11 +71,6 @@ Key Features:
 - Next.js
 - Bootstrap
 - Tailwind CSS
-### Version Control
-- Git
-- GitHub
-- GitLab
-___________________
-
+-Version Control- GIT
 
 
