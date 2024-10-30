@@ -1,0 +1,62 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import "aos/dist/aos.css";
+
+body {
+  font-family: "Roboto", sans-serif;
+  /* background-color: #F4F5F6; */
+  color: #0F294A;
+}
+
+.heroSectionImg {
+  border-start-start-radius: 1000px;
+  border-end-start-radius: 1000px;
+  border-end-end-radius: 1000px;
+  border-start-end-radius: 1000px;
+  height: 90vh;
+}
+
+.before-content-contact::before {
+  content: "";
+  display: flex;
+  position: absolute;
+  top: 0;
+  left: -13%;
+  bottom: 0;
+  right: 0;
+  background-color: #21383e;
+  height: auto;
+  width: 15%;
+  border-top-left-radius: 60%; 
+  border-bottom-left-radius: 60%; 
+}
+@keyframes slide {
+  from {
+    transform: translateX(0);
+  }
+  to {
+    transform: translateX(-100%);
+  }
+}
+.carousel-container {
+  overflow: hidden;
+  padding: 60px 0;
+  display: flex;
+}
+.carousel-parent {
+  display: inline-flex;
+  animation: 10s slide infinite linear;
+  white-space: nowrap;
+}
+.carousel-child {
+  border-bottom-left-radius: 1000px;
+  border-bottom-right-radius: 1000px;
+  width: 20%;
+  margin-right: 3rem;
+}
+.carrouselImg {
+  border-bottom-left-radius: 300px;
+  border-bottom-right-radius: 300px;
+  filter: brightness(0.4);
+}

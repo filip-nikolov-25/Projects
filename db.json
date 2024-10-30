@@ -1,0 +1,2091 @@
+{
+  "currentLoggedInUser": {
+    "mk": {
+      "profileImg": "/aboutPageImgs/MainSectionLeftImage.png",
+      "name": "Валентина",
+      "lastname": "Стојанова",
+      "email": "vstojanova@hotmail.com",
+      "profession": "HR Регрутер",
+      "number": "+389 75 375 274",
+      "bio": "Јас сум Валентина Стојанова, искусен HR регрутер со над 10 години работно искуство во полето на човечките ресурси. Својата кариера ја започнав како помлад HR асистент и со текот на годините напредував, стекнувајќи богато знаење и вештини во регрутирањето и управувањето со таленти. Позната сум по мојот професионализам, одлична комуникација и способност да пронајдам и привлечам врвни таленти за различни индустрии. Работев со големи компании, помагајќи им да изградат силни и ефикасни тимови. Со посветеност кон мојата професија и постојана желба за усовршување, се стремам да бидам лидер и ментор во областа на HR.",
+      "town": "Bitola",
+      "comments": [
+        {
+          "likes": "321",
+          "text": "Регрутацијата е комплексен процес кој бара внимателно планирање и имплементација. Преку прецизно дефинирање на позицијата, развивање на ефикасна стратегија за привлекување кандидати, спроведување на структуриран процес на интервју, вклучување на релевантни тестови и проценки и донесување на информирана одлука, можете да осигурате дека ќе го направите најдобриот избор за вашата организација.",
+          "comments": "8",
+          "user": "Фрањо",
+          "profilePic": "/userDashboardImgs/commentProfilePic1.png"
+        },
+        {
+          "likes": "431",
+          "text": "Регрутацијата е комплексен процес кој бара внимателно планирање и имплементација. Преку прецизно дефинирање на позицијата, развивање на ефикасна стратегија за привлекување кандидати, спроведување на структуриран процес на интервју, вклучување на релевантни тестови и проценки и донесување на информирана одлука, можете да осигурате дека ќе го направите најдобриот избор за вашата организација.",
+          "comments": "14",
+          "user": "Бобан",
+          "profilePic": "/userDashboardImgs/commentProfilePic2.png"
+        }
+      ]
+    },
+    "en": {
+      "profileImg": "/aboutPageImgs/MainSectionLeftImage.png",
+      "name": "Валентина",
+      "lastname": "Стојанова",
+      "email": "vstojanova@hotmail.com",
+      "profession": "HR Recruiter",
+      "number": "+389 75 375 274",
+      "comments": [
+        {
+          "likes": "321",
+          "text": "Регрутацијата е комплексен процес кој бара внимателно планирање и имплементација. Преку прецизно дефинирање на позицијата, развивање на ефикасна стратегија за привлекување кандидати, спроведување на структуриран процес на интервју, вклучување на релевантни тестови и проценки и донесување на информирана одлука, можете да осигурате дека ќе го направите најдобриот избор за вашата организација.",
+          "comments": "8",
+          "user": "Фрањо",
+          "profilePic": "/userDashboardImgs/commentProfilePic1.png"
+        },
+        {
+          "likes": "431",
+          "text": "Регрутацијата е комплексен процес кој бара внимателно планирање и имплементација. Преку прецизно дефинирање на позицијата, развивање на ефикасна стратегија за привлекување кандидати, спроведување на структуриран процес на интервју, вклучување на релевантни тестови и проценки и донесување на информирана одлука, можете да осигурате дека ќе го направите најдобриот избор за вашата организација.",
+          "comments": "14",
+          "user": "Бобан",
+          "profilePic": "/userDashboardImgs/commentProfilePic2.png"
+        }
+      ],
+      "town": "Bitola",
+      "bio": "I am Valentina Stojanova, an experienced HR recruiter with over 10 years of work experience in the field of human resources. I started my career as a junior HR assistant and progressed over the years, gaining a wealth of knowledge and skills in recruitment and talent management. I am known for my professionalism, excellent communication and ability to find and attract top talent for various industries. I have worked with large companies, helping them build strong and efficient teams. With a commitment to my profession and a constant desire to improve, I aspire to be a leader and mentor in the field of HR."
+    }
+  },
+  "listingEvents": {
+    "mk": [
+      {
+        "id": "1",
+        "img": "/eventsImgs/eventImg1.png",
+        "hrCoffee": "HR CAFFE на тема: Развој на Кариерата",
+        "eventName": "HR CAFFE на тема: Развој на Кариерата",
+        "readMore": "Прочитај повеќе",
+        "hiddenText": " Lorem, ipsum dolor sit amet consectetur adipisicing elit. Minus cumque facere iste! Suscipit nemo, illum sint excepturi facilis vero aspernatur.",
+        "eventImg": "/blogArticleImgs/similarBlogImgs/similarBlogPic1.png"
+      },
+      {
+        "id": "2",
+        "img": "/eventsImgs/eventImg2.png",
+        "hrCoffee": "HR CAFFE на тема: вештини за комуникација",
+        "eventName": "HR CAFFE на тема: вештини за комуникација",
+        "readMore": "Прочитај повеќе",
+        "hiddenText": " Lorem, ipsum dolor sit amet consectetur adipisicing elit. Minus cumque facere iste! Suscipit nemo, illum sint excepturi facilis vero aspernatur.",
+        "eventImg": "/blogArticleImgs/similarBlogImgs/similarBlogPic1.png"
+      },
+      {
+        "id": "3",
+        "eventName": "HR CAFFE на тема: потребата од зајакнување...",
+        "hrCoffee": "HR CAFFE на тема: потребата од зајакнување...",
+        "img": "/eventsImgs/eventImg3.png",
+        "readMore": "Прочитај повеќе",
+        "hiddenText": " Lorem, ipsum dolor sit amet consectetur adipisicing elit. Minus cumque facere iste! Suscipit nemo, illum sint excepturi facilis vero aspernatur.",
+        "eventImg": "/blogArticleImgs/similarBlogImgs/similarBlogPic1.png"
+      },
+      {
+        "id": "4",
+        "hrCoffee": "HR CAFFE на тема: инклузивност...",
+        "readMore": "Прочитај повеќе",
+        "img": "/eventsImgs/eventImg4.png",
+        "eventName": "HR CAFFE на тема: инклузивност...",
+        "hiddenText": " Lorem, ipsum dolor sit amet consectetur adipisicing elit. Minus cumque facere iste! Suscipit nemo, illum sint excepturi facilis vero aspernatur.",
+        "eventImg": "/blogArticleImgs/similarBlogImgs/similarBlogPic1.png"
+      },
+      {
+        "id": "5",
+        "hrWeekend": "Равнотежа меѓу работа и приватен живот",
+        "img": "/eventsImgs/eventImg5.png",
+        "readMore": "Прочитај повеќе",
+        "eventName": "Равнотежа меѓу работа и приватен живот",
+        "hiddenText": " Lorem, ipsum dolor sit amet consectetur adipisicing elit. Minus cumque facere iste! Suscipit nemo, illum sint excepturi facilis vero aspernatur.",
+        "eventImg": "/blogArticleImgs/similarBlogImgs/similarBlogPic1.png"
+      },
+      {
+        "id": "6",
+        "hrWeekend": "Ефективно лидерство и тимска работа",
+        "readMore": "Прочитај повеќе",
+        "eventName": "Ефективно лидерство и тимска работа",
+        "img": "/eventsImgs/eventImg6.png",
+        "hiddenText": " Lorem, ipsum dolor sit amet consectetur adipisicing elit. Minus cumque facere iste! Suscipit nemo, illum sint excepturi facilis vero aspernatur.",
+        "eventImg": "/blogArticleImgs/similarBlogImgs/similarBlogPic1.png"
+      },
+      {
+        "id": "7",
+        "hrWeekend": "Управување со стрес и ментално здравје",
+        "readMore": "Прочитај повеќе",
+        "eventName": "Управување со стрес и ментално здравје",
+        "img": "/eventsImgs/eventImg7.png",
+        "hiddenText": " Lorem, ipsum dolor sit amet consectetur adipisicing elit. Minus cumque facere iste! Suscipit nemo, illum sint excepturi facilis vero aspernatur.",
+        "eventImg": "/blogArticleImgs/similarBlogImgs/similarBlogPic1.png"
+      },
+      {
+        "id": "8",
+        "eventName": "Мотивација и инспирација на работното место",
+        "hrWeekend": "Мотивација и инспирација на работното место",
+        "img": "/eventsImgs/eventImg8.png",
+        "readMore": "Прочитај повеќе",
+        "hiddenText": " Lorem, ipsum dolor sit amet consectetur adipisicing elit. Minus cumque facere iste! Suscipit nemo, illum sint excepturi facilis vero aspernatur.",
+        "eventImg": "/blogArticleImgs/similarBlogImgs/similarBlogPic1.png"
+      },
+      {
+        "id": "9",
+        "eventName": "Вебинар за рекрутирање и задржување на таленти",
+        "img": "/eventsImgs/eventImg9.png",
+        "hrWebinar": "Вебинар за рекрутирање и задржување на таленти",
+        "readMore": "Прочитај повеќе",
+        "hiddenText": " Lorem, ipsum dolor sit amet consectetur adipisicing elit. Minus cumque facere iste! Suscipit nemo, illum sint excepturi facilis vero aspernatur.",
+        "eventImg": "/blogArticleImgs/similarBlogImgs/similarBlogPic1.png"
+      },
+      {
+        "id": "10",
+        "hrWebinar": "Вебинар за управување со перформанси",
+        "img": "/eventsImgs/eventImg10.png",
+        "readMore": "Прочитај повеќе",
+        "eventName": "Вебинар за управување со перформанси",
+        "hiddenText": " Lorem, ipsum dolor sit amet consectetur adipisicing elit. Minus cumque facere iste! Suscipit nemo, illum sint excepturi facilis vero aspernatur.",
+        "eventImg": "/blogArticleImgs/similarBlogImgs/similarBlogPic1.png"
+      },
+      {
+        "id": "11",
+        "hrWebinar": "Вебинар за дигитална трансформација во HR",
+        "img": "/eventsImgs/eventImg11.png",
+        "readMore": "Прочитај повеќе",
+        "eventName": "Вебинар за дигитална трансформација во HR",
+        "hiddenText": " Lorem, ipsum dolor sit amet consectetur adipisicing elit. Minus cumque facere iste! Suscipit nemo, illum sint excepturi facilis vero aspernatur.",
+        "eventImg": "/blogArticleImgs/similarBlogImgs/similarBlogPic1.png"
+      },
+      {
+        "id": "12",
+        "hrWebinar": "Вебинар за законска усогласеност во HR",
+        "readMore": "Прочитај повеќе",
+        "img": "/eventsImgs/eventImg12.png",
+        "eventName": "Вебинар за законска усогласеност во HR",
+        "hiddenText": " Lorem, ipsum dolor sit amet consectetur adipisicing elit. Minus cumque facere iste! Suscipit nemo, illum sint excepturi facilis vero aspernatur.",
+        "eventImg": "/blogArticleImgs/similarBlogImgs/similarBlogPic1.png"
+      },
+      {
+        "id": "13",
+        "eventName": "Конференција за иднината на работата",
+        "hrConferences": "Конференција за иднината на работата",
+        "img": "/eventsImgs/eventImg13.png",
+        "readMore": "Прочитај повеќе",
+        "hiddenText": " Lorem, ipsum dolor sit amet consectetur adipisicing elit. Minus cumque facere iste! Suscipit nemo, illum sint excepturi facilis vero aspernatur.",
+        "eventImg": "/blogArticleImgs/similarBlogImgs/similarBlogPic1.png"
+      },
+      {
+        "id": "14",
+        "eventName": "Конференција за HR иновации",
+        "hrConferences": "Конференција за HR иновации",
+        "readMore": "Прочитај повеќе",
+        "img": "/eventsImgs/eventImg14.png",
+        "hiddenText": " Lorem, ipsum dolor sit amet consectetur adipisicing elit. Minus cumque facere iste! Suscipit nemo, illum sint excepturi facilis vero aspernatur.",
+        "eventImg": "/blogArticleImgs/similarBlogImgs/similarBlogPic1.png"
+      },
+      {
+        "id": "15",
+        "eventName": "Конференција за управување со таленти",
+        "hrConferences": "Конференција за управување со таленти",
+        "readMore": "Прочитај повеќе",
+        "img": "/eventsImgs/eventImg15.png",
+        "hiddenText": " Lorem, ipsum dolor sit amet consectetur adipisicing elit. Minus cumque facere iste! Suscipit nemo, illum sint excepturi facilis vero aspernatur.",
+        "eventImg": "/blogArticleImgs/similarBlogImgs/similarBlogPic1.png"
+      },
+      {
+        "id": "16",
+        "hrConferences": "Конференција за дигитална трансформација во HR",
+        "readMore": "Прочитај повеќе",
+        "img": "/eventsImgs/eventImg16.png",
+        "eventName": "Конференција за дигитална трансформација во HR",
+        "hiddenText": " Lorem, ipsum dolor sit amet consectetur adipisicing elit. Minus cumque facere iste! Suscipit nemo, illum sint excepturi facilis vero aspernatur.",
+        "eventImg": "/blogArticleImgs/similarBlogImgs/similarBlogPic1.png"
+      }
+    ],
+    "en": [
+      {
+        "id": "1",
+        "eventName": "HR CAFFE on the topic: Career Development",
+        "hrCoffee": "HR CAFFE on the topic: Career Development",
+        "readMore": "Read more",
+        "img": "/eventsImgs/eventImg1.png",
+        "hiddenText": " Lorem, ipsum dolor sit amet consectetur adipisicing elit. Minus cumque facere iste! Suscipit nemo, illum sint excepturi facilis vero aspernatur.",
+        "eventImg": "/blogArticleImgs/similarBlogImgs/similarBlogPic1.png"
+      },
+      {
+        "id": "2",
+        "eventName": "HR CAFFE on the topic: Communication Skills",
+        "hrCoffee": "HR CAFFE on the topic: Communication Skills",
+        "readMore": "Read more",
+        "img": "/eventsImgs/eventImg2.png",
+        "hiddenText": " Lorem, ipsum dolor sit amet consectetur adipisicing elit. Minus cumque facere iste! Suscipit nemo, illum sint excepturi facilis vero aspernatur.",
+        "eventImg": "/blogArticleImgs/similarBlogImgs/similarBlogPic1.png"
+      },
+      {
+        "id": "3",
+        "eventName": "HR CAFFE on the topic: The Need for Strengthening...",
+        "hrCoffee": "HR CAFFE on the topic: The Need for Strengthening...",
+        "readMore": "Read more",
+        "img": "/eventsImgs/eventImg3.png",
+        "hiddenText": " Lorem, ipsum dolor sit amet consectetur adipisicing elit. Minus cumque facere iste! Suscipit nemo, illum sint excepturi facilis vero aspernatur.",
+        "eventImg": "/blogArticleImgs/similarBlogImgs/similarBlogPic1.png"
+      },
+      {
+        "id": "4",
+        "eventName": "HR CAFFE on the topic: Inclusivity...",
+        "hrCoffee": "HR CAFFE on the topic: Inclusivity...",
+        "readMore": "Read more",
+        "img": "/eventsImgs/eventImg4.png",
+        "hiddenText": " Lorem, ipsum dolor sit amet consectetur adipisicing elit. Minus cumque facere iste! Suscipit nemo, illum sint excepturi facilis vero aspernatur.",
+        "eventImg": "/blogArticleImgs/similarBlogImgs/similarBlogPic1.png"
+      },
+      {
+        "id": "5",
+        "eventName": "Balance between Work and Private Life",
+        "hrWeekend": "Balance between Work and Private Life",
+        "readMore": "Read more",
+        "img": "/eventsImgs/eventImg5.png",
+        "hiddenText": " Lorem, ipsum dolor sit amet consectetur adipisicing elit. Minus cumque facere iste! Suscipit nemo, illum sint excepturi facilis vero aspernatur.",
+        "eventImg": "/blogArticleImgs/similarBlogImgs/similarBlogPic1.png"
+      },
+      {
+        "id": "6",
+        "eventName": "Effective Leadership and Teamwork",
+        "hrWeekend": "Effective Leadership and Teamwork",
+        "readMore": "Read more",
+        "img": "/eventsImgs/eventImg6.png",
+        "hiddenText": " Lorem, ipsum dolor sit amet consectetur adipisicing elit. Minus cumque facere iste! Suscipit nemo, illum sint excepturi facilis vero aspernatur.",
+        "eventImg": "/blogArticleImgs/similarBlogImgs/similarBlogPic1.png"
+      },
+      {
+        "id": "7",
+        "eventName": "Stress Management and Mental Health",
+        "hrWeekend": "Stress Management and Mental Health",
+        "img": "/eventsImgs/eventImg7.png",
+        "readMore": "Read more",
+        "hiddenText": " Lorem, ipsum dolor sit amet consectetur adipisicing elit. Minus cumque facere iste! Suscipit nemo, illum sint excepturi facilis vero aspernatur.",
+        "eventImg": "/blogArticleImgs/similarBlogImgs/similarBlogPic1.png"
+      },
+      {
+        "id": "8",
+        "eventName": "Motivation and Inspiration in the Workplace",
+        "hrWeekend": "Motivation and Inspiration in the Workplace",
+        "readMore": "Read more",
+        "img": "/eventsImgs/eventImg8.png",
+        "hiddenText": " Lorem, ipsum dolor sit amet consectetur adipisicing elit. Minus cumque facere iste! Suscipit nemo, illum sint excepturi facilis vero aspernatur.",
+        "eventImg": "/blogArticleImgs/similarBlogImgs/similarBlogPic1.png"
+      },
+      {
+        "id": "9",
+        "eventName": "Webinar on Recruiting and Retaining Talent",
+        "hrWebinar": "Webinar on Recruiting and Retaining Talent",
+        "img": "/eventsImgs/eventImg9.png",
+        "readMore": "Read more",
+        "hiddenText": " Lorem, ipsum dolor sit amet consectetur adipisicing elit. Minus cumque facere iste! Suscipit nemo, illum sint excepturi facilis vero aspernatur.",
+        "eventImg": "/blogArticleImgs/similarBlogImgs/similarBlogPic1.png"
+      },
+      {
+        "id": "10",
+        "eventName": "Webinar on Performance Management",
+        "hrWebinar": "Webinar on Performance Management",
+        "img": "/eventsImgs/eventImg10.png",
+        "readMore": "Read more",
+        "hiddenText": " Lorem, ipsum dolor sit amet consectetur adipisicing elit. Minus cumque facere iste! Suscipit nemo, illum sint excepturi facilis vero aspernatur.",
+        "eventImg": "/blogArticleImgs/similarBlogImgs/similarBlogPic1.png"
+      },
+      {
+        "id": "11",
+        "eventName": "Webinar on Digital Transformation in HR",
+        "img": "/eventsImgs/eventImg11.png",
+        "hrWebinar": "Webinar on Digital Transformation in HR",
+        "readMore": "Read more",
+        "hiddenText": " Lorem, ipsum dolor sit amet consectetur adipisicing elit. Minus cumque facere iste! Suscipit nemo, illum sint excepturi facilis vero aspernatur.",
+        "eventImg": "/blogArticleImgs/similarBlogImgs/similarBlogPic1.png"
+      },
+      {
+        "id": "12",
+        "eventName": "Webinar on Legal Compliance in HR",
+        "hrWebinar": "Webinar on Legal Compliance in HR",
+        "img": "/eventsImgs/eventImg12.png",
+        "readMore": "Read more",
+        "hiddenText": " Lorem, ipsum dolor sit amet consectetur adipisicing elit. Minus cumque facere iste! Suscipit nemo, illum sint excepturi facilis vero aspernatur.",
+        "eventImg": "/blogArticleImgs/similarBlogImgs/similarBlogPic1.png"
+      },
+      {
+        "id": "13",
+        "eventName": "Conference on the Future of Work",
+        "hrConferences": "Conference on the Future of Work",
+        "readMore": "Read more",
+        "img": "/eventsImgs/eventImg13.png",
+        "hiddenText": " Lorem, ipsum dolor sit amet consectetur adipisicing elit. Minus cumque facere iste! Suscipit nemo, illum sint excepturi facilis vero aspernatur.",
+        "eventImg": "/blogArticleImgs/similarBlogImgs/similarBlogPic1.png"
+      },
+      {
+        "id": "14",
+        "eventName": "Conference on HR Innovations",
+        "hrConferences": "Conference on HR Innovations",
+        "img": "/eventsImgs/eventImg14.png",
+        "readMore": "Read more",
+        "hiddenText": " Lorem, ipsum dolor sit amet consectetur adipisicing elit. Minus cumque facere iste! Suscipit nemo, illum sint excepturi facilis vero aspernatur.",
+        "eventImg": "/blogArticleImgs/similarBlogImgs/similarBlogPic1.png"
+      },
+      {
+        "id": "15",
+        "eventName": "Conference on Talent Management",
+        "hrConferences": "Conference on Talent Management",
+        "img": "/eventsImgs/eventImg15.png",
+        "readMore": "Read more",
+        "hiddenText": " Lorem, ipsum dolor sit amet consectetur adipisicing elit. Minus cumque facere iste! Suscipit nemo, illum sint excepturi facilis vero aspernatur.",
+        "eventImg": "/blogArticleImgs/similarBlogImgs/similarBlogPic1.png"
+      },
+      {
+        "id": "16",
+        "eventName": "Conference on Digital Transformation in HR",
+        "hrConferences": "Conference on Digital Transformation in HR",
+        "img": "/eventsImgs/eventImg16.png",
+        "readMore": "Read more",
+        "hiddenText": " Lorem, ipsum dolor sit amet consectetur adipisicing elit. Minus cumque facere iste! Suscipit nemo, illum sint excepturi facilis vero aspernatur.",
+        "eventImg": "/blogArticleImgs/similarBlogImgs/similarBlogPic1.png"
+      }
+    ]
+  },
+
+  "allblogsdata": {
+    "mk": {
+      "headingParagraph": "Слични блогови",
+      "allBlogs": [
+        {
+          "blogImg": "/blogArticleImgs/similarBlogImgs/similarBlogPic1.png",
+          "author": "Ѓоко Вукановски ",
+          "authorImgUrl": "/blogArticleImgs/blogArticleImages/blogArticleRightSectionImage.png",
+          "blogName": "Како до најдобар избор при  процесот на регрутација",
+          "learnMore": "Прочитај повеќе",
+          "hiddenText": "Како новите технологии го менуваат начинот на кој HR професионалците ги извршуваат своите задачи и како да ги искористите за подобра ефикасност",
+          "date": "04.09.2024",
+          "smallText": "Процесот на регрутација е клучен за успехот на секоја организација. Селекцијата на вистинските кандидати може значително да влијае на продуктивноста, културата и развојот на компанијата. Следните чекори и совети ќе ви помогнат да направите најдобар избор при регрутацијата.",
+          "cultureinthecompany": "Култура во компанијата",
+          "id": "1",
+
+          "commentSection": {
+            "commentsParagraphs": "Коментари",
+            "allComments": [
+              {
+                "likes": 431,
+                "text": "Регрутацијата е комплексен процес кој бара внимателно планирање и имплементација. Преку прецизно дефинирање на позицијата, развивање на ефикасна стратегија за привлекување кандидати, спроведување на структуриран процес на интервју, вклучување на релевантни тестови и проценки и донесување на информирана одлука, можете да осигурате дека ќе го направите најдобриот избор за вашата организација.",
+                "comments": 14,
+                "user": "Попај Морнаровски",
+                "profilePic": "/randomUserProfilePic1.png"
+              },
+              {
+                "likes": 185,
+                "comments": 5,
+                "text": "Регрутацијата е комплексен процес кој бара внимателно планирање и имплементација. Преку прецизно дефинирање на позицијата, развивање на ефикасна стратегија за привлекување кандидати, спроведување на структуриран процес на интервју, вклучување на релевантни тестови и проценки и донесување на информирана одлука, можете да осигурате дека ќе го направите најдобриот избор за вашата организација.",
+                "user": "Јовче Попов",
+                "profilePic": "/randomUserProfilePic2.png"
+              }
+            ]
+          },
+          "blogTextCardsData": [
+            {
+              "id": "1",
+              "leadingText": "Точно дефинирање на позицијата",
+              "secondaryText": "Првиот чекор кон успешна регрутација е јасно дефинирање на позицијата. Ова вклучува детално опишување на задачите, одговорностите и потребните квалификации. Кога огласот за работа е точен, ќе привлечете кандидати кои навистина се заинтересирани и квалификувани за позицијата.",
+              "advice": {
+                "adviceWord": "Совет",
+                "adviceText": "Користете специфични и мерливи критериуми при опишувањето на обврските и квалификациите на позицијата."
+              }
+            },
+            {
+              "id": "2",
+              "leadingText": "Развој на ефективна стратегија за привлекување кандидати",
+              "secondaryText": "Откако ја дефиниравте идеалната профил на кандидатот, треба да развиете стратегија за привлекување такви кандидати. Ова може да вклучува користење различни канали за регрутација како што се огласни табли, социјални мрежи и професионални мрежи.",
+              "advice": {
+                "adviceWord": "Совет",
+                "adviceText": "Користете различни платформи за регрутација за да достигнете поширока и поразновидна база на кандидати."
+              }
+            },
+            {
+              "id": "3",
+              "leadingText": "Спроведување на структуриран процес на интервјуирање",
+              "secondaryText": "Структурираниот процес на интервјуирање е есенцијален за објективен и праведен избор. Ова вклучува подготвување на прашања кои се релевантни за позицијата и кои ќе ви помогнат да ги оцените способностите на кандидатите да ги исполни барањата на работата.",
+              "advice": {
+                "adviceWord": "Совет",
+                "adviceText": "Секогаш користете ист сет на прашања за сите кандидати за да осигурите праведен и конзистентен процес."
+              }
+            },
+            {
+              "id": "4",
+              "leadingText": "Вклучување на релевантни тестови и оценувања",
+              "secondaryText": "Тестовите и оценувањата можат да бидат од голема помош при оценување на вештините и компетенциите на кандидатите. Ова може да вклучува тестови за технички вештини, психометриски тестови или тестови за личност.",
+              "advice": {
+                "adviceWord": "Совет",
+                "adviceText": "Изберете тестови кои се директно поврзани со клучните вештини потребни за позицијата."
+              }
+            },
+            {
+              "id": "5",
+              "leadingText": "Правење информирана одлука",
+              "secondaryText": "Последниот чекор е правење информирана одлука. Ова вклучува анализа на сите информации собрани за време на процесот на регрутација, вклучувајќи ги интервјуто, резултатите од тестовите и референците.",
+              "advice": {
+                "adviceWord": "Совет",
+                "adviceText": "Вклучете повеќе членови на тимот во процесот на донесување одлука за да добиете различни перспективи и да осигурите пообјективен избор."
+              }
+            },
+            {
+              "id": "6",
+              "leadingText": "Заклучок",
+              "secondaryText": "Регрутацијата е сложен процес кој бара внимателно планирање и спроведување. Со точно дефинирање на позицијата, развој на ефективна стратегија за привлекување кандидати, спроведување на структуриран процес на интервјуирање, вклучување на релевантни тестови и оценувања, и правење информирана одлука, можете да осигурите дека правите најдобар избор за вашата организација."
+            }
+          ],
+          "blogStats": {
+            "likes": 335,
+            "comments": 552,
+            "favorites": 86,
+            "shareSection": "Do you like this blog? Share it!",
+            "commentButton": "Upload Comment"
+          }
+        },
+        {
+          "blogImg": "/blogArticleImgs/similarBlogImgs/similarBlogPic1.png",
+          "blogName": "Ролјата на технологијата во модерното HR управување",
+          "learnMore": "Прочитај повеќе",
+          "hiddenText": "Како новите технологии го менуваат начинот на кој HR професионалците ги извршуваат своите задачи и како да ги искористите за подобра ефикасност",
+          "date": "04.09.2024",
+          "cultureinthecompany": "Култура во компанијата",
+          "id": "2"
+        },
+        {
+          "blogImg": "/blogArticleImgs/similarBlogImgs/similarBlogPic2.png",
+          "blogName": "Креирање на позитивна организациска култура",
+          "learnMore": "Прочитај повеќе",
+          "hiddenText": "Кои чекори можете да ги преземете за да креирате и одржите позитивна организациска култура која ќе ги мотивира и инспирира вработените",
+          "date": "03.09.2024",
+          "training": "Обучување",
+          "id": "3"
+        },
+        {
+          "blogImg": "/blogArticleImgs/similarBlogImgs/similarBlogPic3.png",
+          "blogName": "Иднината на работата: трендови и предизвици",
+          "learnMore": "Прочитај повеќе",
+          "hiddenText": "Истражете ги најновите трендови и предизвици кои ја обликуваат иднината на работното место и како вашата организација може да се подготви за нив",
+          "date": "02.09.2024",
+          "id": "4",
+          "cultureinthecompany": "Култура во компанијата"
+        },
+        {
+          "blogImg": "/blogArticleImgs/similarBlogImgs/similarBlogPic4.png",
+          "blogName": "Важноста на обуката и развојот на вработените",
+          "learnMore": "Прочитај повеќе",
+          "hiddenText": "Дознајте зошто континуираната обука и развој за клучни за успешноста на организацијата",
+          "date": "01.09.2024",
+          "id": "5",
+          "training": "Обучување"
+        },
+        {
+          "blogImg": "/blogArticleImgs/similarBlogImgs/similarBlogPic1.png",
+          "blogName": "Ролјата на технологијата во модерното HR управување",
+          "learnMore": "Прочитај повеќе",
+          "hiddenText": "Како новите технологии го менуваат начинот на кој HR професионалците ги извршуваат своите задачи и како да ги искористите за подобра ефикасност",
+          "date": "04.08.2024",
+          "id": "6",
+          "training": "Обучување"
+        },
+        {
+          "blogImg": "/blogArticleImgs/similarBlogImgs/similarBlogPic2.png",
+          "blogName": "Креирање на позитивна организациска култура",
+          "learnMore": "Прочитај повеќе",
+          "hiddenText": "Кои чекори можете да ги преземете за да креирате и одржите позитивна организациска култура која ќе ги мотивира и инспирира вработените",
+          "date": "03.06.2024",
+          "id": "7",
+          "cultureinthecompany": "Култура во компанијата"
+        },
+        {
+          "blogImg": "/blogArticleImgs/similarBlogImgs/similarBlogPic3.png",
+          "blogName": "Иднината на работата: трендови и предизвици",
+          "learnMore": "Прочитај повеќе",
+          "hiddenText": "Истражете ги најновите трендови и предизвици кои ја обликуваат иднината на работното место и како вашата организација може да се подготви за нив",
+          "date": "01.02.2024",
+          "id": "8",
+          "training": "Обучување"
+        },
+        {
+          "blogImg": "/blogArticleImgs/similarBlogImgs/similarBlogPic4.png",
+          "blogName": "Важноста на обуката и развојот на вработените",
+          "learnMore": "Прочитај повеќе",
+          "hiddenText": "Дознајте зошто континуираната обука и развој за клучни за успешноста на организацијата",
+          "date": "01.01.2024",
+          "id": "9",
+          "cultureinthecompany": "Култура во компанијата"
+        }
+      ]
+    },
+    "en": {
+      "headingParagraph": "Similar Blogs",
+      "allBlogs": [
+        {
+          "blogImg": "/blogArticleImgs/similarBlogImgs/similarBlogPic1.png",
+          "author": "Gjoko Vukanovski",
+          "authorImgUrl": "/blogArticleImgs/blogArticleImages/blogArticleRightSectionImage.png",
+          "blogName": "How to Make the Best Choice in the Recruitment Process",
+          "learnMore": "Read more",
+          "hiddenText": "How new technologies are changing the way HR professionals perform their tasks and how to use them for better efficiency",
+          "date": "04.09.2024",
+          "smallText": "The recruitment process is key to the success of any organization. Selecting the right candidates can significantly impact productivity, culture, and the development of the company. The following steps and tips will help you make the best choice in recruitment.",
+          "cultureinthecompany": "Company Culture",
+          "id": "1",
+          "commentSection": {
+            "commentsParagraphs": "Comments",
+            "allComments": [
+              {
+                "likes": 431,
+                "text": "Recruitment is a complex process that requires careful planning and implementation. By precisely defining the position, developing an effective candidate attraction strategy, conducting a structured interview process, including relevant tests and assessments, and making an informed decision, you can ensure the best choice for your organization.",
+                "comments": 14,
+                "user": "Popeye Mornarovski",
+                "profilePic": "/randomUserProfilePic1.png"
+              },
+              {
+                "likes": 185,
+                "comments": 5,
+                "text": "Recruitment is a complex process that requires careful planning and implementation. By precisely defining the position, developing an effective candidate attraction strategy, conducting a structured interview process, including relevant tests and assessments, and making an informed decision, you can ensure the best choice for your organization.",
+                "user": "Jovche Popov",
+                "profilePic": "/randomUserProfilePic2.png"
+              }
+            ]
+          },
+          "blogTextCardsData": [
+            {
+              "id": "1",
+              "leadingText": "Precise definition of the position",
+              "secondaryText": "The first step to successful recruitment is clearly defining the position. This includes a detailed description of tasks, responsibilities, and required qualifications. When a job posting is accurate, you will attract candidates who are genuinely interested and qualified for the position.",
+              "advice": {
+                "adviceWord": "Tip",
+                "adviceText": "Use specific and measurable criteria when describing the duties and qualifications of the position."
+              }
+            },
+            {
+              "id": "2",
+              "leadingText": "Developing an effective candidate attraction strategy",
+              "secondaryText": "Once you have defined the ideal candidate profile, you need to develop a strategy to attract such candidates. This may include using various recruitment channels such as job boards, social media, and professional networks.",
+              "advice": {
+                "adviceWord": "Tip",
+                "adviceText": "Use different recruiting platforms to reach a wider and more diverse candidate base."
+              }
+            },
+            {
+              "id": "3",
+              "leadingText": "Conduct a structured interview process",
+              "secondaryText": "A structured interview process is essential for an objective and fair selection. This includes preparing questions that are relevant to the position and that will help you assess the candidates' ability to meet the requirements of the job.",
+              "advice": {
+                "adviceWord": "Tip",
+                "adviceText": "Always use the same set of questions for all candidates to ensure a fair and consistent process."
+              }
+            },
+            {
+              "id": "4",
+              "leadingText": "Inclusion of relevant tests and assessments",
+              "secondaryText": "Tests and assessments can greatly help in evaluating the skills and competencies of candidates. This may include technical skills tests, psychometric tests, or personality assessments.",
+              "advice": {
+                "adviceWord": "Tip",
+                "adviceText": "Choose tests that are directly related to the key skills needed for the position."
+              }
+            },
+            {
+              "id": "5",
+              "leadingText": "Making an informed decision",
+              "secondaryText": "The final step is making an informed decision. This involves analyzing all information gathered during the recruitment process, including interviews, test results, and references.",
+              "advice": {
+                "adviceWord": "Tip",
+                "adviceText": "Include multiple team members in the decision-making process to get different perspectives and ensure a more objective choice."
+              }
+            },
+            {
+              "id": "6",
+              "leadingText": "Conclusion",
+              "secondaryText": "Recruitment is a complex process that requires careful planning and implementation. By accurately defining the position, developing an effective candidate attraction strategy, implementing a structured interview process, incorporating relevant tests and assessments, and making an informed decision, you can ensure the best choice for your organization."
+            }
+          ],
+          "blogStats": {
+            "likes": 335,
+            "comments": 552,
+            "favorites": 86,
+            "shareSection": "Do you like this blog? Share it!",
+            "commentButton": "Upload Comment"
+          }
+        },
+        {
+          "blogImg": "/blogArticleImgs/similarBlogImgs/similarBlogPic1.png",
+          "blogName": "The Role of Technology in Modern HR Management",
+          "learnMore": "Read more",
+          "hiddenText": "How new technologies are changing the way HR professionals perform their tasks and how to use them for better efficiency",
+          "date": "09.02.2024",
+          "cultureinthecompany": "Company Culture",
+          "id": "2"
+        },
+        {
+          "blogImg": "/blogArticleImgs/similarBlogImgs/similarBlogPic2.png",
+          "blogName": "Creating a Positive Organizational Culture",
+          "learnMore": "Read more",
+          "hiddenText": "What steps can you take to create and maintain a positive organizational culture that motivates and inspires employees",
+          "date": "03.09.2024",
+          "training": "Training",
+          "id": "3"
+        },
+        {
+          "blogImg": "/blogArticleImgs/similarBlogImgs/similarBlogPic3.png",
+          "blogName": "The Future of Work: Trends and Challenges",
+          "learnMore": "Read more",
+          "hiddenText": "Explore the latest trends and challenges shaping the future of the workplace and how your organization can prepare for them",
+          "date": "02.09.2024",
+          "id": "4",
+          "cultureinthecompany": "Company Culture"
+        },
+        {
+          "blogImg": "/blogArticleImgs/similarBlogImgs/similarBlogPic4.png",
+          "blogName": "The Importance of Employee Training and Development",
+          "learnMore": "Read more",
+          "hiddenText": "Find out why continuous training and development are key to an organization's success",
+          "date": "01.09.2024",
+          "id": "5",
+          "training": "Training"
+        },
+        {
+          "blogImg": "/blogArticleImgs/similarBlogImgs/similarBlogPic1.png",
+          "blogName": "The Role of Technology in Modern HR Management",
+          "learnMore": "Read more",
+          "hiddenText": "How new technologies are changing the way HR professionals perform their tasks and how to use them for better efficiency",
+          "date": "04.08.2024",
+          "id": "6",
+          "training": "Training"
+        },
+        {
+          "blogImg": "/blogArticleImgs/similarBlogImgs/similarBlogPic2.png",
+          "blogName": "Creating a Positive Organizational Culture",
+          "learnMore": "Read more",
+          "hiddenText": "What steps can you take to create and maintain a positive organizational culture that motivates and inspires employees",
+          "date": "03.06.2024",
+          "id": "7",
+          "cultureinthecompany": "Company Culture"
+        },
+        {
+          "blogImg": "/blogArticleImgs/similarBlogImgs/similarBlogPic3.png",
+          "blogName": "The Future of Work: Trends and Challenges",
+          "learnMore": "Read more",
+          "hiddenText": "Explore the latest trends and challenges shaping the future of the workplace and how your organization can prepare for them",
+          "date": "01.02.2024",
+          "id": "8",
+          "training": "Training"
+        },
+        {
+          "blogImg": "/blogArticleImgs/similarBlogImgs/similarBlogPic4.png",
+          "blogName": "The Importance of Employee Training and Development",
+          "learnMore": "Read more",
+          "hiddenText": "Find out why continuous training and development are key to an organization's success",
+          "date": "01.01.2024",
+          "id": "9",
+          "cultureinthecompany": "Company Culture"
+        }
+      ]
+    }
+  },
+
+  "allEvents": {
+    "en": [
+      {
+        "id": "1",
+        "blogName": "HR weekend",
+        "mainParagparh": "Balance between work...",
+        "month": "Aug",
+        "day": "09",
+        "img": "/carrouselImgs/firstImg.png",
+        "learnMoreLink": "Learn more",
+        "date": "Thursday, 09 August",
+        "theme": "This event aims to highlight the importance of maintaining a balance between work and personal life for employees. Through discussions with HR specialists, participants will explore strategies to reduce workplace stress, improve employee well-being, and create a harmonious work environment.",
+        "description": "This event aims to highlight the importance of close cooperation between the HR department and the employee representative (union) in organizations. Through this event, we will review the best practices, challenges, and opportunities that arise during the joint work of these two parties, with the aim of improving the working atmosphere and organizational efficiency. Participants will have the opportunity to hear from experts in the field, discuss their experiences, and find new ways to improve cooperation.",
+        "mission": "The goal of this HR coffee event is to create a platform for open communication and exchange of ideas that will contribute to better cooperation between the HR department and the union, which will result in positive changes in the work organization.",
+
+        "agendSection": [
+          {
+            "name": "Registration and morning coffee",
+            "firstParagraph": "Welcome speech by the organizer and a brief presentation of the agenda.",
+            "secondParagraph": "",
+            "eventTime": "10:00"
+          },
+          {
+            "name": "Introduction and opening of the event",
+            "firstParagraph": "Arrival and informal introduction between the participants.",
+            "secondParagraph": "",
+            "eventTime": "10:30"
+          },
+          {
+            "name": "Presentation: The importance of cooperation between the HR department and the union",
+            "firstParagraph": "Presenter: Elitsa Perchinkova",
+            "eventTime": "11:00",
+            "secondParagraph": "Key points: The importance of working together, benefits and potential problems."
+          },
+          {
+            "name": "Panel discussion: Experiences and challenges in practice",
+            "firstParagraph": "Moderator: Djoko Vukanovski",
+            "eventTime": "11:30",
+            "secondParagraph": "Panelists: HR and union representatives from various industries."
+          },
+          {
+            "name": "Coffee break and informal conversations",
+            "firstParagraph": "",
+            "secondParagraph": "",
+            "eventTime": "12:00"
+          },
+          {
+            "name": "Workshop: Strategies for improving cooperation",
+            "firstParagraph": "Host: Zorica Popovska",
+            "eventTime": "12:30",
+            "secondParagraph": "Practical tips and techniques for improving communication and collaboration."
+          },
+          {
+            "name": "Key tools and methods for successful collaboration",
+            "firstParagraph": "Presenter: Maria Petrushevska",
+            "secondParagraph": "",
+            "eventTime": "13:00"
+          },
+          {
+            "name": "Registration and morning coffee",
+            "eventTime": "13:30",
+            "firstParagraph": "Arrival and informal introduction between the participants.",
+            "secondParagraph": "Presentation of tools and methods that can be applied immediately."
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "blogName": "Annual Conference",
+        "mainParagparh": "2024",
+        "month": "Dec",
+        "day": "24",
+        "img": "/carrouselImgs/secondImg.png",
+        "learnMoreLink": "Learn more",
+        "date": "Monday, 24 December",
+        "theme": "This event will focus on the future of human resources, looking ahead to 2024 and beyond. Attendees will explore emerging HR trends, technological advancements, and innovative solutions aimed at optimizing organizational success and employee engagement in the coming years.",
+        "description": "The event highlights the significance of cooperation between HR departments and employee representatives. It explores how new HR technologies and trends will influence collaboration between both parties in the future, ensuring an optimal organizational environment. Experts will share strategies on how to create better cooperation that leads to improved workplace efficiency.",
+        "mission": "The goal of this HR coffee event is to create a platform for open communication and exchange of ideas that will contribute to better cooperation between the HR department and the union, which will result in positive changes in the work organization.",
+        "agendSection": [
+          {
+            "name": "Registration and morning coffee",
+            "firstParagraph": "Welcome speech by the organizer and a brief presentation of the agenda.",
+            "secondParagraph": "",
+            "eventTime": "10:00"
+          },
+          {
+            "name": "Introduction and opening of the event",
+            "firstParagraph": "Arrival and informal introduction between the participants.",
+            "secondParagraph": "",
+            "eventTime": "10:30"
+          },
+          {
+            "name": "Presentation: The future of HR",
+            "firstParagraph": "Presenter: Dr. John Smith",
+            "secondParagraph": "Key points: Emerging trends, technological advancements, and innovative solutions.",
+            "eventTime": "11:00"
+          },
+          {
+            "name": "Panel discussion: HR trends and future outlook",
+            "firstParagraph": "Moderator: Sarah Johnson",
+            "secondParagraph": "Panelists: HR experts and industry leaders.",
+            "eventTime": "11:30"
+          },
+          {
+            "name": "Coffee break and networking",
+            "firstParagraph": "",
+            "secondParagraph": "",
+            "eventTime": "12:00"
+          },
+          {
+            "name": "Workshop: Preparing for future HR challenges",
+            "firstParagraph": "Host: Mark Anderson",
+            "secondParagraph": "Strategies for adapting to emerging trends and technologies.",
+            "eventTime": "12:30"
+          },
+          {
+            "name": "Closing remarks and next steps",
+            "firstParagraph": "Presenter: Emily Davis",
+            "secondParagraph": "",
+            "eventTime": "13:00"
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "blogName": "HR coffee",
+        "mainParagparh": "Career Development",
+        "month": "Jul",
+        "day": "25",
+        "img": "/carrouselImgs/thirdImg.png",
+        "learnMoreLink": "Learn more",
+        "date": "Wednesday, 25 July",
+        "theme": "This casual event will allow HR professionals to discuss career development opportunities and challenges within organizations. Participants will share insights on employee retention, growth paths, and ways to motivate employees through personalized career development plans.",
+        "description": "This event focuses on collaboration between HR and employee representatives to ensure better career development. It will review the challenges and solutions that arise in creating personalized growth paths for employees, while also discussing how cooperation between HR and unions can enhance retention and motivation.",
+        "mission": "The goal of this HR coffee event is to create a platform for open communication and exchange of ideas that will contribute to better cooperation between the HR department and the union, which will result in positive changes in the work organization.",
+        "agendSection": [
+          {
+            "name": "Registration and welcome",
+            "firstParagraph": "Welcome and introduction to the event agenda.",
+            "secondParagraph": "",
+            "eventTime": "10:00"
+          },
+          {
+            "name": "Opening remarks",
+            "firstParagraph": "Introduction to career development topics and goals of the session.",
+            "secondParagraph": "",
+            "eventTime": "10:30"
+          },
+          {
+            "name": "Presentation: Effective career development strategies",
+            "firstParagraph": "Presenter: Alice Brown",
+            "secondParagraph": "Key points: Retention strategies, career paths, and motivation techniques.",
+            "eventTime": "11:00"
+          },
+          {
+            "name": "Panel discussion: Overcoming career development challenges",
+            "firstParagraph": "Moderator: David Lee",
+            "secondParagraph": "Panelists: Experienced HR professionals and career coaches.",
+            "eventTime": "11:30"
+          },
+          {
+            "name": "Networking and coffee break",
+            "firstParagraph": "",
+            "secondParagraph": "",
+            "eventTime": "12:00"
+          },
+          {
+            "name": "Workshop: Creating personalized career development plans",
+            "firstParagraph": "Host: Lisa White",
+            "secondParagraph": "Hands-on session for developing individual growth plans.",
+            "eventTime": "12:30"
+          },
+          {
+            "name": "Closing remarks and next steps",
+            "firstParagraph": "Presenter: Michael Green",
+            "secondParagraph": "",
+            "eventTime": "13:00"
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "blogName": "HR weekend",
+        "mainParagparh": "Stress management...",
+        "month": "Aug",
+        "day": "16",
+        "img": "/carrouselImgs/fourthImg.png",
+        "learnMoreLink": "Learn more",
+        "date": "Friday, 16 August",
+        "theme": "The focus of this event will be on stress management in the workplace. HR professionals will discuss various techniques to identify, address, and reduce stress levels among employees, ensuring better mental health and productivity at work.",
+        "description": "The event will explore the importance of close cooperation between HR professionals and employee representatives to manage workplace stress. It will address the joint efforts needed to reduce employee stress levels and create a more supportive and productive work environment, benefiting both employees and employers.",
+        "mission": "The goal of this HR coffee event is to create a platform for open communication and exchange of ideas that will contribute to better cooperation between the HR department and the union, which will result in positive changes in the work organization.",
+        "agendSection": [
+          {
+            "name": "Registration and welcome",
+            "firstParagraph": "Arrival and registration of participants.",
+            "secondParagraph": "",
+            "eventTime": "10:00"
+          },
+          {
+            "name": "Opening remarks",
+            "firstParagraph": "Introduction to the topic of stress management.",
+            "secondParagraph": "",
+            "eventTime": "10:30"
+          },
+          {
+            "name": "Presentation: Techniques for managing workplace stress",
+            "firstParagraph": "Presenter: Emma Wilson",
+            "secondParagraph": "Key points: Stress identification, coping strategies, and creating a supportive environment.",
+            "eventTime": "11:00"
+          },
+          {
+            "name": "Panel discussion: Best practices in stress management",
+            "firstParagraph": "Moderator: James Harris",
+            "secondParagraph": "Panelists: HR professionals and mental health experts.",
+            "eventTime": "11:30"
+          },
+          {
+            "name": "Networking and coffee break",
+            "firstParagraph": "",
+            "secondParagraph": "",
+            "eventTime": "12:00"
+          },
+          {
+            "name": "Workshop: Developing stress management plans",
+            "firstParagraph": "Host: Patricia Lee",
+            "secondParagraph": "Practical session for creating individual and organizational stress management plans.",
+            "eventTime": "12:30"
+          },
+          {
+            "name": "Closing remarks and feedback",
+            "firstParagraph": "Presenter: Robert Martinez",
+            "secondParagraph": "",
+            "eventTime": "13:00"
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "blogName": "Introduction to Leadership",
+        "mainParagparh": "Leadership Skills Development",
+        "month": "Sep",
+        "day": "12",
+        "img": "/carrouselImgs/fifthImg.png",
+        "learnMoreLink": "Learn more",
+        "date": "Thursday, 12 September",
+        "theme": "This event focuses on developing leadership skills among HR professionals and managers. Participants will explore strategies for effective leadership, team management, and employee motivation to achieve the best results.",
+        "description": "The event will concentrate on techniques and strategies for developing leadership skills. Various approaches to improving team management and motivating employees will be discussed. Participants will have the opportunity to engage in practical workshops and discussions to enhance their leadership abilities.",
+        "mission": "The goal of this event is to help HR professionals and managers develop key leadership skills and strategies for effective team management, leading to improved productivity and employee satisfaction.",
+        "agendSection": [
+          {
+            "name": "Registration and Welcome",
+            "firstParagraph": "Welcome from the organizer and introduction to the agenda.",
+            "secondParagraph": "",
+            "eventTime": "09:00"
+          },
+          {
+            "name": "Opening Remarks",
+            "firstParagraph": "Introduction to the leadership topic and event objectives.",
+            "secondParagraph": "",
+            "eventTime": "09:30"
+          },
+          {
+            "name": "Presentation: Leadership Basics",
+            "firstParagraph": "Presenter: Ana Kostova",
+            "secondParagraph": "Key points: Fundamental principles of leadership, motivation techniques, and management.",
+            "eventTime": "10:00"
+          },
+          {
+            "name": "Panel Discussion: Challenges and Solutions in Leadership",
+            "firstParagraph": "Moderator: Aleksandar Petrov",
+            "secondParagraph": "Panelists: Leaders and managers from various industries.",
+            "eventTime": "10:30"
+          },
+          {
+            "name": "Coffee Break and Networking",
+            "firstParagraph": "",
+            "secondParagraph": "",
+            "eventTime": "11:00"
+          },
+          {
+            "name": "Workshop: Developing Leadership Skills",
+            "firstParagraph": "Host: Marija Nikolovska",
+            "secondParagraph": "Practical activities for developing personal leadership skills and techniques.",
+            "eventTime": "11:30"
+          },
+          {
+            "name": "Closing Remarks and Next Steps",
+            "firstParagraph": "Presenter: Jovan Ilievski",
+            "secondParagraph": "",
+            "eventTime": "12:30"
+          }
+        ]
+      },
+      {
+        "id": "6",
+        "blogName": "Change Management",
+        "mainParagparh": "Strategies for Effective Management",
+        "month": "Nov",
+        "day": "10",
+        "img": "/carrouselImgs/sixthImg.png",
+        "learnMoreLink": "Learn more",
+        "date": "Sunday, 10 November",
+        "theme": "This event will focus on strategies for effective change management in organizations. Participants will learn how to manage changes in the workplace and optimize the adaptation to new processes and structures.",
+        "description": "The event will explore the importance of successful change management and adaptation within organizations. Various approaches and techniques for dealing with resistance to change and strategies for positively impacting the work environment will be discussed. Participants will have the chance to engage in interactive sessions and workshops.",
+        "mission": "The goal of this event is to provide practical advice and strategies for successful change management, helping organizations adapt to new conditions and maximize success in the transformation process.",
+        "agendSection": [
+          {
+            "name": "Registration and Welcome",
+            "firstParagraph": "Welcome and introduction to the event agenda.",
+            "secondParagraph": "",
+            "eventTime": "09:00"
+          },
+          {
+            "name": "Opening Remarks",
+            "firstParagraph": "Introduction to the topic of change management.",
+            "secondParagraph": "",
+            "eventTime": "09:30"
+          },
+          {
+            "name": "Presentation: Effective Strategies for Change Management",
+            "firstParagraph": "Presenter: Daniela Stojanovska",
+            "secondParagraph": "Key points: Managing resistance, strategies for successful change implementation.",
+            "eventTime": "10:00"
+          },
+          {
+            "name": "Panel Discussion: Examples of Successful Changes",
+            "firstParagraph": "Moderator: Stefan Martinov",
+            "secondParagraph": "Panelists: Change management experts and experienced managers.",
+            "eventTime": "10:30"
+          },
+          {
+            "name": "Coffee Break and Networking",
+            "firstParagraph": "",
+            "secondParagraph": "",
+            "eventTime": "11:00"
+          },
+          {
+            "name": "Workshop: Developing Change Management Plans",
+            "firstParagraph": "Host: Kristina Jovanova",
+            "secondParagraph": "Practical session for creating plans and strategies for managing change.",
+            "eventTime": "11:30"
+          },
+          {
+            "name": "Closing Remarks and Feedback",
+            "firstParagraph": "Presenter: Vlado Trajanov",
+            "secondParagraph": "",
+            "eventTime": "12:30"
+          }
+        ]
+      }
+    ],
+    "mk": [
+      {
+        "id": "1",
+        "blogName": "HR викенд",
+        "mainParagparh": "Баланс помеѓу работа...",
+        "month": "Авг",
+        "day": "09",
+        "img": "/carrouselImgs/firstImg.png",
+        "learnMoreLink": "Дознајте повеќе",
+        "date": "Четврток, 09 Август",
+        "theme": "Овој настан има за цел да го истакне значењето на одржување на баланс помеѓу работата и личниот живот за вработените. Преку дискусии со HR специјалисти, учесниците ќе истражуваат стратегии за намалување на стресот на работното место, подобрување на благосостојбата на вработените и создавање на хармонична работна средина.",
+        "description": "Овој настан има за цел да го истакне значењето на блиска соработка помеѓу HR одделите и претставниците на вработените (синдикатите) во организациите. Преку овој настан, ќе ги разгледаме најдобрите практики, предизвиците и можностите што произлегуваат од заедничката работа на овие две страни, со цел подобрување на работната атмосфера и организациската ефикасност. Учесниците ќе имаат можност да слушаат од експерти во полето, да ги дискутираат своите искуства и да најдат нови начини за подобрување на соработката.",
+        "mission": "Целта на овој HR coffee настан е да се создаде платформа за отворена комуникација и размена на идеи која ќе придонесе за подобра соработка помеѓу HR одделот и синдикатот, што ќе резултира со позитивни промени во организацијата на работата.",
+
+        "agendSection": [
+          {
+            "name": "Регистрација и утринска кафе",
+            "firstParagraph": "Добредојде од организаторот и кратка презентација на агендата.",
+            "secondParagraph": "",
+            "eventTime": "10:00"
+          },
+          {
+            "name": "Вовед и отворање на настанот",
+            "firstParagraph": "Пристигнување и неформално претставување меѓу учесниците.",
+            "secondParagraph": "",
+            "eventTime": "10:30"
+          },
+          {
+            "name": "Презентација: Значењето на соработката помеѓу HR одделот и синдикатот",
+            "firstParagraph": "Презентер: Елица Перчинкова",
+            "eventTime": "11:00",
+            "secondParagraph": "Клучни точки: Значењето на заедничката работа, придобивки и потенцијални проблеми."
+          },
+          {
+            "name": "Панел дискусија: Искуства и предизвици во практиката",
+            "firstParagraph": "Модератор: Ѓоко Вукановски",
+            "eventTime": "11:30",
+            "secondParagraph": "Панелисти: HR и синдикатски претставници од различни индустрии."
+          },
+          {
+            "name": "Кафе пауза и неформални разговори",
+            "firstParagraph": "",
+            "secondParagraph": "",
+            "eventTime": "12:00"
+          },
+          {
+            "name": "Работилница: Стратегии за подобрување на соработката",
+            "firstParagraph": "Водител: Зорица Поповска",
+            "eventTime": "12:30",
+            "secondParagraph": "Практични совети и техники за подобрување на комуникацијата и соработката."
+          },
+          {
+            "name": "Клучни алатки и методи за успешна соработка",
+            "firstParagraph": "Презентер: Марија Петрушевска",
+            "secondParagraph": "",
+            "eventTime": "13:00"
+          },
+          {
+            "name": "Регистрација и утринска кафе",
+            "firstParagraph": "Пристигнување и неформално претставување меѓу учесниците.",
+            "eventTime": "13:30",
+            "secondParagraph": "Презентација на алатки и методи што можат да се применат веднаш."
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "blogName": "Годишна Конференција",
+        "mainParagparh": "2024",
+        "month": "Дек",
+        "day": "24",
+        "img": "/carrouselImgs/secondImg.png",
+        "learnMoreLink": "Дознајте повеќе",
+        "date": "Понеделник, 24 Декември",
+        "theme": "Овој настан ќе се фокусира на иднината на човечките ресурси, гледајќи напред кон 2024 и понатаму. Учесниците ќе ја истражуваат новите трендови во HR, технолошките напредоци и иновативните решенија со цел оптимизирање на организацискиот успех и вклученоста на вработените во следните години.",
+        "description": "Настанот ги истакнува значењето на соработката помеѓу HR одделите и претставниците на вработените. Тоа истражува како новите HR технологии и трендови ќе влијаат на соработката помеѓу двете страни во иднина, осигурувајќи оптимална организациска средина. Експертите ќе споделат стратегии како да се создаде подобра соработка која води до зголемена ефикасност на работното место.",
+        "mission": "Целта на овој HR coffee настан е да се создаде платформа за отворена комуникација и размена на идеи која ќе придонесе за подобра соработка помеѓу HR одделот и синдикатот, што ќе резултира со позитивни промени во организацијата на работата.",
+        "agendSection": [
+          {
+            "name": "Регистрација и утринска кафе",
+            "firstParagraph": "Добредојде од организаторот и кратка презентација на агендата.",
+            "secondParagraph": "",
+            "eventTime": "10:00"
+          },
+          {
+            "name": "Вовед и отворање на настанот",
+            "firstParagraph": "Пристигнување и неформално претставување меѓу учесниците.",
+            "secondParagraph": "",
+            "eventTime": "10:30"
+          },
+          {
+            "name": "Презентација: Иднината на HR",
+            "firstParagraph": "Презентер: Д-р Џон Смит",
+            "secondParagraph": "Клучни точки: Нови трендови, технолошки напредоци и иновативни решенија.",
+            "eventTime": "11:00"
+          },
+          {
+            "name": "Панел дискусија: HR трендови и идниот поглед",
+            "firstParagraph": "Модератор: Сара Џонсон",
+            "secondParagraph": "Панелисти: HR експерти и индустриски лидери.",
+            "eventTime": "11:30"
+          },
+          {
+            "name": "Кафе пауза и мрежно поврзување",
+            "firstParagraph": "",
+            "secondParagraph": "",
+            "eventTime": "12:00"
+          },
+          {
+            "name": "Работилница: Подготвување за идните HR предизвици",
+            "firstParagraph": "Водител: Марк Андерсон",
+            "eventTime": "12:30",
+            "secondParagraph": "Стратегии за прилагодување на новите трендови и технологии."
+          },
+          {
+            "name": "Заклучни забелешки и следни чекори",
+            "firstParagraph": "Презентер: Емили Дејвис",
+            "secondParagraph": "",
+            "eventTime": "13:00"
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "blogName": "HR кафе",
+        "mainParagparh": "Развој на кариерата",
+        "month": "Јул",
+        "day": "25",
+        "img": "/carrouselImgs/thirdImg.png",
+        "learnMoreLink": "Дознајте повеќе",
+        "date": "Среда, 25 Јули",
+        "theme": "Овој неформален настан ќе овозможи на HR професионалци да дискутираат можности и предизвици во развојот на кариерата во организациите. Учесниците ќе споделат увид во задржувањето на вработените, патеките за раст и начини за мотивирање на вработените преку персонализирани планови за развој на кариерата.",
+        "description": "Овој настан се фокусира на соработката помеѓу HR и претставниците на вработените за да се осигура подобар развој на кариерата. Ќе се разгледаат предизвиците и решенијата што произлегуваат од создавањето на персонализирани патеки за раст на вработените, исто така ќе се дискутира како соработката помеѓу HR и синдикатите може да ја подобри задржувањето и мотивирањето.",
+        "mission": "Целта на овој HR coffee настан е да се создаде платформа за отворена комуникација и размена на идеи која ќе придонесе за подобра соработка помеѓу HR одделот и синдикатот, што ќе резултира со позитивни промени во организацијата на работата.",
+        "agendSection": [
+          {
+            "name": "Регистрација и добредојде",
+            "firstParagraph": "Добредојде и вовед во агендата на настанот.",
+            "secondParagraph": "",
+            "eventTime": "10:00"
+          },
+          {
+            "name": "Воведни забелешки",
+            "firstParagraph": "Воведување на темите на развој на кариерата и цели на сесијата.",
+            "secondParagraph": "",
+            "eventTime": "10:30"
+          },
+          {
+            "name": "Презентација: Ефективни стратегии за развој на кариерата",
+            "firstParagraph": "Презентер: Алис Браун",
+            "secondParagraph": "Клучни точки: Стратегии за задржување, патеки за кариера и техники за мотивација.",
+            "eventTime": "11:00"
+          },
+          {
+            "name": "Панел дискусија: Преодолување на предизвиците во развојот на кариерата",
+            "firstParagraph": "Модератор: Дејвид Ли",
+            "secondParagraph": "Панелисти: Искусни HR професионалци и тренери за кариера.",
+            "eventTime": "11:30"
+          },
+          {
+            "name": "Мрежно поврзување и кафе пауза",
+            "firstParagraph": "",
+            "secondParagraph": "",
+            "eventTime": "12:00"
+          },
+          {
+            "name": "Работилница: Создавање на персонализирани планови за развој на кариерата",
+            "firstParagraph": "Водител: Лиза Вајт",
+            "secondParagraph": "Практична сесија за развој на индивидуални планови за раст.",
+            "eventTime": "12:30"
+          },
+          {
+            "name": "Заклучни забелешки и следни чекори",
+            "firstParagraph": "Презентер: Мајкл Грин",
+            "secondParagraph": "",
+            "eventTime": "13:00"
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "blogName": "HR викенд",
+        "mainParagparh": "Управување со стресот...",
+        "month": "Авг",
+        "day": "16",
+        "img": "/carrouselImgs/fourthImg.png",
+        "learnMoreLink": "Дознајте повеќе",
+        "date": "Петок, 16 Август",
+        "theme": "Фокусот на овој настан ќе биде на управување со стресот на работното место. HR професионалците ќе дискутираат различни техники за идентификување, решавање и намалување на нивоата на стрес кај вработените, осигурувајќи подобро ментално здравје и продуктивност на работа.",
+        "description": "Настанот ќе ја истражи важноста на блиската соработка помеѓу HR професионалците и претставниците на вработените за управување со стресот на работното место. Ќе се разгледаат заедничките напори потребни за намалување на нивоата на стрес кај вработените и создавање на поддржувачка и продуктивна работна средина, користна и за вработените и за работодавачите.",
+        "mission": "Целта на овој HR coffee настан е да се создаде платформа за отворена комуникација и размена на идеи која ќе придонесе за подобра соработка помеѓу HR одделот и синдикатот, што ќе резултира со позитивни промени во организацијата на работата.",
+        "agendSection": [
+          {
+            "name": "Регистрација и добредојде",
+            "firstParagraph": "Пристигнување и регистрација на учесниците.",
+            "secondParagraph": "",
+            "eventTime": "10:00"
+          },
+          {
+            "name": "Воведни забелешки",
+            "firstParagraph": "Воведување во темата на управување со стресот.",
+            "secondParagraph": "",
+            "eventTime": "10:30"
+          },
+          {
+            "name": "Презентација: Техники за управување со стресот на работното место",
+            "firstParagraph": "Презентер: Ема Вилсон",
+            "secondParagraph": "Клучни точки: Идентификација на стресот, стратегии за справување и создавање поддржувачка средина.",
+            "eventTime": "11:00"
+          },
+          {
+            "name": "Панел дискусија: Најдобри практики во управувањето со стресот",
+            "firstParagraph": "Модератор: Џејмс Харис",
+            "secondParagraph": "Панелисти: HR професионалци и експерти за ментално здравје.",
+            "eventTime": "11:30"
+          },
+          {
+            "name": "Мрежно поврзување и кафе пауза",
+            "firstParagraph": "",
+            "secondParagraph": "",
+            "eventTime": "12:00"
+          },
+          {
+            "name": "Работилница: Развивање на планови за управување со стресот",
+            "firstParagraph": "Водител: Патриција Ли",
+            "secondParagraph": "Практична сесија за создавање на индивидуални и организациски планови за управување со стресот.",
+            "eventTime": "12:30"
+          },
+          {
+            "name": "Заклучни забелешки и повратни информации",
+            "firstParagraph": "Презентер: Роберт Мартинез",
+            "secondParagraph": "",
+            "eventTime": "13:00"
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "blogName": "Вовед во Лидерство",
+        "mainParagparh": "Развој на лидерски способности",
+        "month": "Сеп",
+        "day": "12",
+        "img": "/carrouselImgs/fifthImg.png",
+        "learnMoreLink": "Дознајте повеќе",
+        "date": "Четврток, 12 Септември",
+        "theme": "Овој настан е насочен кон развој на лидерски способности кај HR професионалците и управителите. Учесниците ќе истражуваат стратегии за ефективно лидерство, управување со тимови и мотивација на вработените за постигнување на најдобри резултати.",
+        "description": "Настанот ќе се фокусира на техниките и стратегиите за развој на лидерските способности. Ќе се разгледаат различни пристапи за подобрување на управувањето со тимовите и мотивирање на вработените. Учесниците ќе имаат можност да учествуваат во практични работилници и дискусии за реализација на лидерски вештини.",
+        "mission": "Целта на овој настан е да се помогне на HR професионалците и менаџерите да развијат клучни лидерски вештини и стратегии за ефективно управување со тимови, што ќе води кон подобрена продуктивност и задоволство на вработените.",
+        "agendSection": [
+          {
+            "name": "Регистрација и добредојде",
+            "firstParagraph": "Добредојде од организаторот и вовед во агендата.",
+            "secondParagraph": "",
+            "eventTime": "09:00"
+          },
+          {
+            "name": "Воведни забелешки",
+            "firstParagraph": "Воведување на темата на лидерство и цели на настанот.",
+            "secondParagraph": "",
+            "eventTime": "09:30"
+          },
+          {
+            "name": "Презентација: Основи на лидерството",
+            "firstParagraph": "Презентер: Ана Костова",
+            "secondParagraph": "Клучни точки: Основни принципи на лидерство, техники за мотивирање и управување.",
+            "eventTime": "10:00"
+          },
+          {
+            "name": "Панел дискусија: Предизвици и решенија во лидерството",
+            "firstParagraph": "Модератор: Александар Петров",
+            "secondParagraph": "Панелисти: Лидери и менаџери од различни индустрии.",
+            "eventTime": "10:30"
+          },
+          {
+            "name": "Кафе пауза и мрежно поврзување",
+            "firstParagraph": "",
+            "secondParagraph": "",
+            "eventTime": "11:00"
+          },
+          {
+            "name": "Работилница: Развој на лидерски способности",
+            "firstParagraph": "Водител: Марија Николовска",
+            "secondParagraph": "Практични активности за развој на лични лидерски вештини и техники.",
+            "eventTime": "11:30"
+          },
+          {
+            "name": "Заклучни забелешки и следни чекори",
+            "firstParagraph": "Презентер: Јован Илиевски",
+            "secondParagraph": "",
+            "eventTime": "12:30"
+          }
+        ]
+      },
+      {
+        "id": "6",
+        "blogName": "Управување со Промените",
+        "mainParagparh": "Стратегии за ефективно управување",
+        "month": "Ноем",
+        "day": "10",
+        "img": "/carrouselImgs/sixthImg.png",
+        "learnMoreLink": "Дознајте повеќе",
+        "date": "Недела, 10 Ноември",
+        "theme": "Овој настан ќе се фокусира на стратегии за ефективно управување со промените во организациите. Учесниците ќе научат како да управуваат со промените на работното место и да ја оптимизираат адаптацијата на нови процеси и структури.",
+        "description": "Настанот ќе ја истражи важноста на успешното управување со промените и адаптацијата во организациите. Ќе се разгледаат различни пристапи и техники за справување со отпор кон промените, како и стратегиите за позитивно влијание врз работната средина. Учесниците ќе имаат можност да се вклучат во интерактивни сесии и работилници.",
+        "mission": "Целта на овој настан е да се обезбедат практични совети и стратегии за успешно управување со промените, што ќе помогне на организациите да се прилагодат на новите услови и да го максимизираат успехот во процесот на трансформација.",
+        "agendSection": [
+          {
+            "name": "Регистрација и добредојде",
+            "firstParagraph": "Добредојде и вовед во агендата на настанот.",
+            "secondParagraph": "",
+            "eventTime": "09:00"
+          },
+          {
+            "name": "Воведни забелешки",
+            "firstParagraph": "Воведување на темата на управување со промените.",
+            "secondParagraph": "",
+            "eventTime": "09:30"
+          },
+          {
+            "name": "Презентација: Ефективни стратегии за управување со промените",
+            "firstParagraph": "Презентер: Даниела Стојановска",
+            "secondParagraph": "Клучни точки: Управување со отпор, стратегии за успешно воведување на промени.",
+            "eventTime": "10:00"
+          },
+          {
+            "name": "Панел дискусија: Примери на успешни промени",
+            "firstParagraph": "Модератор: Стефан Мартинов",
+            "secondParagraph": "Панелисти: Експерти за управување со промените и менаџери со искуство.",
+            "eventTime": "10:30"
+          },
+          {
+            "name": "Кафе пауза и мрежно поврзување",
+            "firstParagraph": "",
+            "secondParagraph": "",
+            "eventTime": "11:00"
+          },
+          {
+            "name": "Работилница: Развивање на планови за управување со промените",
+            "firstParagraph": "Водител: Христина Јованова",
+            "secondParagraph": "Практична сесија за создавање на планови и стратегии за управување со промените.",
+            "eventTime": "11:30"
+          },
+          {
+            "name": "Заклучни забелешки и повратни информации",
+            "firstParagraph": "Презентер: Владо Трајанов",
+            "secondParagraph": "",
+            "eventTime": "12:30"
+          }
+        ]
+      }
+    ]
+  },
+  "blogarticle": {
+    "en": {
+      "staticContent": {
+        "heroSection": {
+          "blog": "Blog",
+          "contact": "Follow us on our social media",
+          "from": "By"
+        },
+
+        "currentOpenedPage": {
+          "first": "Home",
+          "second": "Blogs",
+          "third": "Blog Post"
+        },
+        "rightShortDescText": {
+          "shareText": "Share with colleagues!",
+          "shortDescription": "Short content"
+        }
+      }
+    },
+    "mk": {
+      "staticContent": {
+        "heroSection": {
+          "blog": "Блог",
+          "contact": "Заследи не на социјалните медиуми",
+          "from": "Од"
+        },
+        "currentOpenedPage": {
+          "first": "Почетна",
+          "second": "Блогови",
+          "third": "Блог Пост"
+        },
+        "rightShortDescText": {
+          "shareText": "Сподели со колегите!",
+          "shortDescription": "Кратка содржина"
+        }
+      }
+    }
+  },
+
+  "blogspage": {
+    "en": {
+      "staticContent": {
+        "heroSection": {
+          "blog": "Outstanding blog",
+          "contact": "Follow us on our social media",
+          "from": "By"
+        },
+
+        "currentOpenedPage": {
+          "first": "Home",
+          "second": "Blogs"
+        },
+
+        "tipsSection": {
+          "be": "Be",
+          "active": "active,",
+          "mainText": "share events on social media, collect points, get badges and frames, invite friends to events and win discounts on your next ticket purchase",
+          "secondaryText": "If you are the most active in the forum this month, you will receive prizes to make your profile unique, and if you invite friends and they buy a ticket through your invitation link, you will receive a discount on the next event ticket purchased."
+        },
+        "recommendedBigCard": {
+          "name": "Latest Ads ",
+          "first": "HR Admin",
+          "second": "Intern",
+          "third": "Intern",
+          "fourth": "Executive Manager",
+          "fifth": "HR Intern",
+          "sixth": "Management trainee",
+          "headingParagraph": "Latest Blogs"
+        }
+      }
+    },
+    "mk": {
+      "staticContent": {
+        "heroSection": {
+          "blog": "Истакнат блог",
+          "contact": "Заследи не на социјалните медиуми",
+          "from": "Oд"
+        },
+        "currentOpenedPage": {
+          "first": "Почетна",
+          "second": "Блогови"
+        },
+        "tipsSection": {
+          "be": "Биди",
+          "active": "активен/na,",
+          "mainText": " споделувај настани на социјаните медиуми, собирај поени, добивај значки и рамки, кани пријатели на настани и освојувај попусти за следната купена карта",
+          "secondaryText": "Доколку овој месец си најактивен/а во форумот добиваш награди за да го направиш твојот профил уникатен, а ако каниш пријатели и тие купат карта преку твојот линк за покана добиваш попуст на следната купена карта за настан."
+        },
+        "recommendedBigCard": {
+          "name": "Најнови огласи: ",
+          "first": "HR админ ",
+          "second": "Практикант",
+          "third": "Практикант",
+          "fourth": "Извршен менаџер",
+          "fifth": "HR Практикант",
+          "sixth": "Management trainee",
+          "headingParagraph": "Најнови блогови"
+        }
+      }
+    }
+  },
+  "homepage": {
+    "en": {
+      "staticContent": {
+        "heroSection": {
+          "mainParagparh": "People first !",
+          "secondaryParagraph": "Macedonian Association for Human Resources",
+          "buttonContainerText": "Join us:",
+          "buttonText": "Get involved",
+          "contactUsText": "Follow us on social media"
+        },
+
+        "underHeroSection": {
+          "mainText": "Have your say and connect with other HR enthusiasts",
+          "smallText": "In our blog, you will now be able to exchange opinions on current topics with other users",
+          "buttonContainerText": "Head now to",
+          "buttonText": "Our blog"
+        },
+        "currentOpenedPage": {
+          "first": "HomePage"
+        },
+
+        "eventsSectionData": {
+          "rightSection": {
+            "headingText": "Benefits of membership in MACR",
+            "mainText": "The Macedonian Association for Human Resources - MACHR, as a non-governmental, non-profit and non-partisan association of citizens, continues to achieve its mission of promotion and advancement of the profession of human resources management, as well as the creation and implementation of the highest professional standards and development of human capital in the Republic Macedonia as the only entity of this kind in the country."
+          },
+          "textCards": [
+            {
+              "ordinalNumber": "01",
+              "eventName": "Educational events",
+              "learnMoreText": "Learn more"
+            },
+            {
+              "ordinalNumber": "02",
+              "eventName": "Latest information and developments",
+              "learnMoreText": "Learn more"
+            },
+            {
+              "ordinalNumber": "03",
+              "eventName": "Expanding the network of contacts",
+              "learnMoreText": "Learn more"
+            },
+            {
+              "ordinalNumber": "04",
+              "eventName": "Involvement in the operation of MACR",
+              "learnMoreText": "Learn more"
+            },
+            {
+              "ordinalNumber": "05",
+              "eventName": "HR job postings",
+              "learnMoreText": "Learn more"
+            }
+          ]
+        },
+        "endSection": {
+          "grayMessage": "Want to keep up with us and the latest content we share ?",
+          "orangeMessage": "Subscribe to our newsletter and never miss important events and notifications again",
+          "mainParagraph": "Learn more about us and our goals and objectives!",
+          "smallParagraph": "Our coaching branch was established on April 22, 2019 and is the first network for professional mentors in the country.",
+          "buttonText": "More about us",
+          "macrBigCard": "МАЧР newsletter",
+          "email": "contact@mhra.mk"
+        },
+        "betweenTwoSimilarBlogs": {
+          "mainParagraph": "The biggest HR event on our premises - the annual HR conference of MACR",
+          "secondaryParagraph": "International exchange of experiences in the field of human resources and constant movement in step with world trends.",
+          "president": "President of MACR"
+        }
+      }
+    },
+    "mk": {
+      "staticContent": {
+        "heroSection": {
+          "mainParagparh": "Луѓето пред се!",
+          "secondaryParagraph": "Македонска Асоцијација за Човечки Ресурси",
+          "buttonContainerText": "Придружи ни се:",
+          "buttonText": "Зачлени се",
+          "contactUsText": "Заследи не на социјалните медиуми"
+        },
+        "betweenTwoSimilarBlogs": {
+          "mainParagraph": "Најголемиот HR настан на нашите простори - Годишната HR конференција на МАЧР",
+          "secondaryParagraph": "Меѓународна размена на искуства во полето на човечки ресурси и константно движење во чекор со светските трендови.",
+          "president": "Претседател на МАЧР"
+        },
+
+        "underHeroSection": {
+          "mainText": "Кажи ги своите мислења и поврзи се со останатите HR ентузијасти",
+          "smallText": "Во нашиот блог, од сега ќе можеш да разменуваш мислења на актуелни теми со останатите корисници",
+          "buttonContainerText": "Упати се уште сега кон",
+          "buttonText": "Нашиот блог"
+        },
+        "currentOpenedPage": {
+          "first": "Почетна"
+        },
+        "eventsSectionData": {
+          "rightSection": {
+            "headingText": "Бенефити од зачленување во МАЧР",
+            "mainText": "Македонската асоцијација за човечки ресурси - МАЧР, како невладино, непрофитно и непартиско здружение на граѓани, продолжува со остварување на својата мисија за промоција и унапредување на професијата управување со човечките ресурси, како и создавање и имплементирање на највисоките професионални стандарди и развој на човечкиот капитал во Република Македонија како единствен ентитет од овој вид во земјава."
+          },
+          "textCards": [
+            {
+              "ordinalNumber": "01",
+              "eventName": "Едукативни настани",
+              "learnMoreText": "Прочитај повеќе"
+            },
+            {
+              "ordinalNumber": "02",
+              "eventName": "Најнови информации и случувања",
+              "learnMoreText": "Прочитај повеќе"
+            },
+            {
+              "ordinalNumber": "03",
+              "eventName": "Ширење на мрежата на контакти",
+              "learnMoreText": "Прочитај повеќе"
+            },
+            {
+              "ordinalNumber": "04",
+              "eventName": "Вклучување во работењето на МАЧР",
+              "learnMoreText": "Прочитај повеќе"
+            },
+            {
+              "ordinalNumber": "05",
+              "eventName": "HR огласи за работа",
+              "learnMoreText": "Прочитај повеќе"
+            }
+          ]
+        },
+
+        "endSection": {
+          "grayMessage": "Сакаш да бидеш во тек со нас и најновите содржини што ги споделуваме?",
+          "orangeMessage": "Претплати се на нашиот информативен билтен и никогаш повеќе не пропуштај важни настани и известувања",
+          "mainParagraph": "Дознај повеќе за нас и нашите цели и задачи!",
+          "smallParagraph": "Нашиот огранок за коучинг е формиран на 22 април 2019 година и е првата мрежа за професионални ментори во земјава.",
+          "buttonText": "Повеќе за нас",
+          "macrBigCard": "МАЧР билтен",
+          "email": "contact@mhra.mk"
+        }
+      }
+    }
+  },
+  "conferencepage": {
+    "en": {
+      "staticContent": {
+        "heroSection": {
+          "blog": "Event",
+          "contact": "Follow us on our social media",
+          "from": "By"
+        },
+        "mainSection": {
+          "buycard": "Buy Ticket",
+          "mail": "mhraconference.com",
+          "days": "Days"
+        },
+        "specialGuests": {
+          "mainParagraph": "Special Guests",
+          "buttonText": "All Speakers",
+          "secondaryParagraph": "These are people from whom there is definitely something to learn. Their achievements are immense and with their help the HR sector has been able to reach new heights. Do not miss this opportunity to hear and learn something from their wisdom."
+        },
+        "agendSection": {
+          "mainParagraph": "Conference agenda",
+          "day1": "Day 1",
+          "day2": "Day 2"
+        },
+        "ceoSection": {
+          "ceo": "Mајк Вазауски",
+          "smallParagraph": "CEO of “Монстер Инк",
+          "bio": "Join us for this exceptional opportunity to be part of the global HR community and contribute to creating future-ready organizations through proactive HR strategies. The conference is designed to provide inspiration, knowledge and networking opportunities to help HR professionals be future-ready."
+        },
+
+        "priceSection": {
+          "headingParagraph": "Packages for Individuals and Corporations",
+          "individualCardName": "Individuals",
+          "individualCardFirst": "1 seat",
+          "individualCardSecond": "Lunch break",
+          "individualCardThird": "WiFi",
+          "corporationCardName": "Corporations",
+          "corporationCardFirst": "20 seats",
+          "corporationCardSecond": "Tea and coffee breaks",
+          "corporationCardThird": "Lunch break",
+          "corporationCardFourth": "WiFi",
+          "recommendButtonText": "Recommend to a friend",
+          "buyNowButtonText": "BUY TICKET"
+        },
+        "currentOpenedPage": {
+          "first": "HomePage",
+          "second": "Annual Conference"
+        }
+      }
+    },
+    "mk": {
+      "staticContent": {
+        "heroSection": {
+          "blog": "Настан",
+          "contact": "Заследи не на социјалните медиуми",
+          "from": "Od"
+        },
+        "mainSection": {
+          "buycard": "Купи Карта",
+          "mail": "mhraconference.com",
+          "days": "Дена"
+        },
+        "specialGuests": {
+          "mainParagraph": "Специјални гости",
+          "buttonText": "Сите спикери",
+          "secondaryParagraph": "Ова се луѓе од кои дефинитивно има што да се научи. Нивните достигнувања се огромни и со нивна помош секторот на HR успеа да достигне нови височини. Не пропуштајте ја оваа прилика да ка слушнете, а и да научите нешто од нивната мудрост."
+        },
+        "agendSection": {
+          "mainParagraph": "Агенда на конференцијата",
+          "day1": "Ден 1",
+          "day2": "Ден 2"
+        },
+        "ceoSection": {
+          "ceo": "Mајк Вазауски",
+          "smallParagraph": "CEO на “Монстер Инк",
+          "bio": "Придружете се на нас за оваа исклучителна прилика да бидете дел од глобалната HR заедница и да придонесете за создавање на организации кои се подготвени за иднината преку проактивни HR стратегии. Конференцијата е дизајнирана да обезбеди инспирација, знаење и мрежни можности кои ќе им помогнат на HR професионалците да бидат подготвени за иднината."
+        },
+        "priceSection": {
+          "headingParagraph": "Пакети за поединци и корпорации",
+          "individualCardName": "Поединци",
+          "individualCardFirst": "1 седиште",
+          "individualCardSecond": "Пауза за ручек",
+          "individualCardThird": "WiFi",
+          "corporationCardName": "Корпорации",
+          "corporationCardFirst": "20 седишта",
+          "corporationCardSecond": "Паузи за чај и кафе",
+          "corporationCardThird": "Пауза за ручек",
+          "corporationCardFourth": "WiFi",
+          "recommendButtonText": "Предложи на пријател",
+          "buyNowButtonText": "КУПИ КАРТА"
+        },
+        "currentOpenedPage": {
+          "first": "Почетна",
+          "second": "Годишна Конференција"
+        }
+      }
+    }
+  },
+  "singleeventpage": {
+    "en": {
+      "staticContent": {
+        "heroSection": {
+          "blog": "Blog",
+          "contact": "Follow us on our social media",
+          "from": "By"
+        },
+        "mainSection": {
+          "description": "Description",
+          "purpose": "Purpose",
+          "buycard": "Buy Ticket",
+          "mail": "mhraconference.com"
+        },
+        "bottomSection": {
+          "speakerParahraph": "Speakers at the event:",
+          "individualPrice": "Price for individuals",
+          "companyPrice": "Price for companies",
+          "buycard": "Buy Ticket",
+          "mail": "mhraconference.com",
+          "buttonText": "Continue with this email ",
+          "mainParagraph": "Агенда на настанот:"
+        }
+      }
+    },
+    "mk": {
+      "staticContent": {
+        "heroSection": {
+          "blog": "Блог",
+          "contact": "Заследи не на социјалните медиуми",
+          "from": "Од"
+        },
+        "mainSection": {
+          "description": "Опис",
+          "purpose": "Цел",
+          "buycard": "Купи Карта",
+          "mail": "mhraconference.com"
+        },
+        "bottomSection": {
+          "speakerParahraph": "Говорници на настанот:",
+          "individualPrice": "Цена за поединци",
+          "companyPrice": "Цена за компании",
+          "buycard": "Купи Карта",
+          "mail": "mhraconference.com",
+          "buttonText": "Продолжи со овој емаил ",
+          "mainParagraph": "Агенда на настанот:"
+        }
+      }
+    }
+  },
+  "userdashboard": {
+    "mk": {
+      "staticContent": {
+        "heroSection": {
+          "settingParagrah": "Поставки",
+          "shortBio": "Кратка биографија",
+          "recommended": "Препораки"
+        },
+        "badges": {
+          "points": "Поени до следна рамка",
+          "newestBadgesParagraph": "Најнови беџови",
+          "viewAll": "Види ги сите",
+          "firstBadge": "Левел 2 беџ за активност во блог секцијата за корисници",
+          "secondBadge": "Левел 3 беџ за редовно посетување на настани",
+          "listofConnections": "Листа на конекции",
+          "addConnection": "Додади конекција",
+          "inputPlaceholder": "Пребарај",
+          "latestAdded": "Последно додадени"
+        },
+        "ticketsSection": {
+          "headingParagraph": "Купени карти",
+          "firstCardMainParagraph": "HR кафе: Пoтребата од зајакнување на соработ...",
+          "firstCardSecondaryParagraph": "25.07.2024  Лабораториум, Скопје",
+          "secondCardMainParagraph": "HR кафе: Пoтребата од зајакнување на соработ...",
+          "secondCardSecondaryParagraph": "25.07.2024  Лабораториум, Скопје",
+          "won": "Освоено:",
+          "recommended": "Препорачано на:",
+          "discount": "попуст за следна карта",
+          "friends": "пријатели",
+          "sendButtonText": "Испрати",
+          "feedback": "Остави фидбек за нешто што би можеле да подобриме на страната. Кажи ни што ти смета и ние ке се потрудиме да го подобриме."
+        },
+        "calendarSection": {
+          "mainParagparh": "Календар со датуми за сите претстојни настани",
+          "secondaryParagraph": "Погледни ги сите настани распоредени на календар. Со клик на обележаните настани можеш да дознаеш повеќе информации за секој од настаните но за целосни информации упатете се до индивидуалната страна на настанот"
+        }
+      }
+    },
+    "en": {
+      "staticContent": {
+        "heroSection": {
+          "settingParagrah": "Setting",
+          "shortBio": "A brief biography",
+          "recommended": "Recommendations"
+        },
+        "badges": {
+          "points": "Points until next frame",
+          "newestBadgesParagraph": "Newest badges",
+          "viewAll": "View all",
+          "firstBadge": "Level 2 badge for activity in the user blog section",
+          "secondBadge": "Level 3 badge for regular event attendance",
+          "listofConnections": "List of connections",
+          "addConnection": "Add connection",
+          "inputPlaceholder": "Search",
+          "latestAdded": "Latest added"
+        },
+
+        "ticketsSection": {
+          "headingParagraph": "Purchased tickets",
+          "firstCardMainParagraph": "HR Cafe: The need for strengthening cooperation...",
+          "firstCardSecondaryParagraph": "25.07.2024  Laboratory, Skopje",
+          "secondCardMainParagraph": "HR Cafe: The need for strengthening cooperation...",
+          "secondCardSecondaryParagraph": "25.07.2024  Laboratory, Skopje",
+          "won": "Won:",
+          "recommended": "Recommended to:",
+          "discount": "discount for the next ticket",
+          "friends": "friends",
+          "sendButtonText": "Send",
+          "feedback": "Leave feedback on something we can improve on the site. Tell us what bothers you, and we'll do our best to improve it."
+        },
+        "calendarSection": {
+          "mainParagparh": "Calendar with dates for all upcoming events",
+          "secondaryParagraph": "View all events arranged on the calendar. By clicking on the marked events, you can learn more about each event, but for complete information, please visit the individual event page."
+        }
+      }
+    }
+  },
+  "signuppage": {
+    "en": {
+      "staticContent": {
+        "heroSection": {
+          "mainParagparh": "Join us!",
+          "secondaryParagraph": "Do you want to be informed in more detail about the benefits?",
+          "buttonText": "Read more",
+          "contactUsText": "Follow us on social media"
+        },
+        "loginSection": {
+          "headingParagraph": "Sign In or Register",
+          "googleButton": "Continue with Google",
+          "continueButton": "Continue with this email",
+          "cookiesText": "By clicking 'Continue with Google/Email', you agree to our Terms of Use and Privacy Policy",
+          "firstAcceptInputText": "I want to become a member of MACHR",
+          "secondAcceptInputText": "I want to regularly receive information via email",
+          "orParagraph": "Or"
+        },
+        "benefitsSection": {
+          "leftSectionHeadingParagraph": "Benefits of Corporate Membership",
+          "leftSectionFirstListParagraph": "Representative in the corporate board of MACHR",
+          "leftSectionSecondListParagraph": "Opportunities to promote your company",
+          "leftSectionThirdListParagraph": "Networking regionally and internationally",
+          "leftSectionFourthListParagraph": "HR job postings",
+          "rightSectionHeadingParagraph": "Benefits of Individual Membership",
+          "rightSectionFirstListParagraph": "Educational events",
+          "rightSectionSecondListParagraph": "Latest news and developments",
+          "rightSectionThirdListParagraph": "Networking contacts",
+          "rightSectionFourthListParagraph": "Involvement in MACHR operations",
+          "rightSectionFifthListParagraph": "HR job postings"
+        }
+      }
+    },
+    "mk": {
+      "staticContent": {
+        "heroSection": {
+          "mainParagparh": "Придружи ни се!",
+          "secondaryParagraph": "Сакаш да се информираш подетално за бенефитите?",
+          "buttonText": "Прочитај повеќе",
+          "contactUsText": "Заследи не на социјалните медиуми"
+        },
+        "loginSection": {
+          "headingParagraph": "Најави се или Регистрирај се",
+          "googleButton": "Продолжи со Google",
+          "continueButton": "Продолжи со овој email",
+          "cookiesText": "Со кликнување на 'Продолжи со Google/Email', се согласувате со нашите Услови на користење и Политика за приватност",
+          "firstAcceptInputText": "Сакам да станам член на МАЧР",
+          "secondAcceptInputText": "Сакам редовно да добивам информации на е-маил",
+          "orParagraph": "Или"
+        },
+        "benefitsSection": {
+          "leftSectionHeadingParagraph": "Бенефити од корпоративно зачленување",
+          "leftSectionFirstListParagraph": "Претставник во корпоративниот одбор на МАЧР",
+          "leftSectionSecondListParagraph": "Можности за промоција на вашата компанија",
+          "leftSectionThirdListParagraph": "Ширење на мрежата регионално и интернационално",
+          "leftSectionFourthListParagraph": "HR огласи за работа",
+          "rightSectionHeadingParagraph": "Бенефити од индивидуално зачленување",
+          "rightSectionFirstListParagraph": "Едукативни настани",
+          "rightSectionSecondListParagraph": "Најнови информации и случувања",
+          "rightSectionThirdListParagraph": "Ширење на мрежата на контакти",
+          "rightSectionFourthListParagraph": "Вклучување во работењето на МАЧР",
+          "rightSectionFifthListParagraph": "HR огласи за работа"
+        }
+      }
+    }
+  },
+  "aboutuspage": {
+    "mk": {
+      "staticContent": {
+        "heroSection": {
+          "headingParagraph": "Запознај го тимот",
+          "secondaryParagraph": "Македонска Асоцијација за Човечки Ресурси",
+          "buttonContainerText": "Придружи ни се:",
+          "buttonText": "Прочитај повеќе",
+          "contactUsText": "Заследи не на социјалните медиуми"
+        },
+        "mainSection": {
+          "headingParagraph": "МИСИЈА И ВИЗИЈА",
+          "secondaryParagraph": "Македонска Асоцијација за Човечки Ресурси",
+          "firstSectionFirstParagraph": "МАЧР е стручно, невладино, непартиско и непрофитно здружение на граѓани формирано на 22 април 2009 година, заради вршење на дејности и активности поврзани со развојот на работната сила, промоција на управувањето со човечките ресурси, како и унапредување на професијата управување со човечки ресурси.",
+          "firstSectionSecondParagraph": "Мисија: “Мисија на МАЧР е унапредување и развој на професијата менаџмент со човечките ресурси”.",
+          "firstSectionThirdParagraph": "Визија: “Визија на МАЧР е развој на луѓето и организациите!”",
+          "secondSectionMainParagraph": "Цели и задачи:",
+          "secondSectionFirstParagraph": "ПОДДРШКА на највисоките идеали во областа на управувањето со човечки ресурси и посестрано прифаќање и ценење на професијата;",
+          "secondSectionSecondParagraph": "ПРИЗНАВАЊЕ на управувањето со човечки ресурси поради неговиот придонес за успешно работење и зајакнување на способноста и кредибилитетот на професијата управување со човечки ресурси;",
+          "secondSectionThirdParagraph": "СТРЕМЕЖ да бидеме водачи во развојот и промовирањето на добрите практики во професијата управување со човечки ресурси, што ќе ги применуваат и професионалните членови и нивните колеги и да ги поставиме основните национални стандарди за управување со човечки ресурси; Лобирање кај владата и поднесување на документи во име на членовите и трети лица."
+        },
+        "aboutCeo": {
+          "mainParagraph": "Претседател на МАЧР",
+          "smallParagraph": "м-р Дарко Петровски",
+          "firstParagraph": "Дарко е еден од основачите на МАЧР, каде придонесуваше како член на УО, претседател на Надзорниот одбор, генерален секретар и уредник на електронскиот весник на МАЧР, а на последното Собрание во декември 2018 беше избран за Претседател на Македонската асоцијација за човечки ресурси. Дарко помина речиси 9 годишен работен ангажман како раководител на одделот за човечки ресурси и организација во ЕВН, еден од најголемите работодавачи во Македонија. Пред тоа, тој беше на чело на Канцеларијата за економски прашања при Австриската амбасада во Скопје.",
+          "secondParagraph": "Дарко е основач на Талент бизнис инкубаторот Степ-ап кој нуди програми за стипендирање и развој на таленти, за практикантска работа и консултантски услуги во областа на стратегиски деловен развој, организациски развој и менаџмент со човечките ресурси. Тој е и ко-основач и партнер во Динамик Консалтинг и е вклучен во проекти како менаџмент консултант во различни области.",
+          "thirdParagraph": "Покрај професионалниот ангажман, Дарко бил и е сеуште активен во повеќе организации како Организацијата на работодавачи на Македонија, Националниот економско-социјален совет, Локалниот економско-социјален совет на град Скопје, Техничкиот комитет за менаџмент со човечките ресурси (ТК42) при Институтот за стандардизација на РМ, Националниот совет за претприемништво и конкурентност, советодавните одбори на Универзитетот за туризам и менаџмент во Скопје и на Универзитетот Американ Колеџ Скопје.",
+          "fourthParagraph": "Дарко магистрираше економски науки на Економскиот факултет во Љубљана и е магистер по бизнис администрација и организациски науки, со специјализација во менаџментот со човечките ресурси, а исто така е дипломиран машински инженер и автор на повеќе стручни и научно-истражувачки трудови."
+        },
+        "currentOpenedPage": {
+          "first": "Почетна",
+          "second": "За Нас"
+        }
+      }
+    },
+    "en": {
+      "staticContent": {
+        "heroSection": {
+          "headingParagraph": "Meet the Team",
+          "secondaryParagraph": "Macedonian Association for Human Resources",
+          "buttonContainerText": "Join us:",
+          "buttonText": "Read more",
+          "contactUsText": "Follow us on social media"
+        },
+        "mainSection": {
+          "headingParagraph": "MISSION AND VISION",
+          "secondaryParagraph": "Macedonian Association for Human Resources",
+          "firstSectionFirstParagraph": "The Macedonian Association for Human Resources (MAHR) is a professional, non-governmental, non-political, and non-profit organization of citizens, founded on April 22, 2009, to carry out activities related to workforce development, promotion of human resources management, and the advancement of the human resources management profession.",
+          "firstSectionSecondParagraph": "Mission: 'The mission of MAHR is the promotion and development of the human resources management profession.'",
+          "firstSectionThirdParagraph": "Vision: 'The vision of MAHR is the development of people and organizations!'",
+          "secondSectionMainParagraph": "Goals and Objectives:",
+          "secondSectionFirstParagraph": "SUPPORT of the highest ideals in the field of human resources management and broader acceptance and appreciation of the profession;",
+          "secondSectionSecondParagraph": "RECOGNITION of human resources management for its contribution to successful business operations and strengthening the capability and credibility of the human resources management profession;",
+          "secondSectionThirdParagraph": "ASPIRATION to be leaders in developing and promoting good practices in the human resources management profession, which will be applied by professional members and their colleagues, and to set basic national standards for human resources management; Lobbying with the government and submitting documents on behalf of members and third parties."
+        },
+        "aboutCeo": {
+          "mainParagraph": "President of MAHR",
+          "smallParagraph": "Mr. Darko Petrovski",
+          "firstParagraph": "Darko is one of the founders of MAHR, where he contributed as a member of the Management Board, Chairman of the Supervisory Board, General Secretary, and editor of the MAHR electronic newsletter. At the last Assembly in December 2018, he was elected President of the Macedonian Association for Human Resources. Darko spent almost 9 years working as the Head of the Human Resources and Organization Department at EVN, one of the largest employers in Macedonia. Before that, he headed the Office for Economic Affairs at the Austrian Embassy in Skopje.",
+          "secondParagraph": "Darko is the founder of the Talent Business Incubator Step-Up, which offers programs for scholarships and talent development, internships, and consulting services in the field of strategic business development, organizational development, and human resources management. He is also a co-founder and partner at Dynamic Consulting and is involved in projects as a management consultant in various fields.",
+          "thirdParagraph": "In addition to his professional engagement, Darko has been and still is active in several organizations such as the Employers' Organization of Macedonia, the National Economic and Social Council, the Local Economic and Social Council of the City of Skopje, the Technical Committee for Human Resources Management (TC42) at the Institute for Standardization of Macedonia, the National Council for Entrepreneurship and Competitiveness, and the advisory boards of the University of Tourism and Management in Skopje and the American College Skopje University.",
+          "fourthParagraph": "Darko holds a master's degree in Economic Sciences from the Faculty of Economics in Ljubljana and a master's degree in Business Administration and Organizational Sciences, specializing in Human Resources Management. He is also a graduate mechanical engineer and the author of several professional and scientific research papers."
+        },
+        "currentOpenedPage": {
+          "first": "HomePage",
+          "second": "About Us"
+        }
+      }
+    }
+  },
+  "eventlistingpage": {
+    "mk": {
+      "staticContent": {
+        "heroSection": {
+          "eventName": "Истакнат Настан",
+          "event": "HR Кафе",
+          "eventText": "Овој четврток кафе на тема како да примените техники и чекори од селф коучинг за подобро да се водите себеси... l 25 Јули, 2024   ",
+          "buttonText": "Прочитај повеќе",
+          "contactUsText": "Заследи не на социјалните медиуми"
+        },
+        "calendarSection": {
+          "mainParagparh": "Календар со датуми за сите претстојни настани",
+          "secondaryParagraph": "Погледни ги сите настани распоредени на календар. Со клик на обележаните настани можеш да дознаеш повеќе информации за секој од настаните но за целосни информации упатете се до индивидуалната страна на настанот"
+        },
+        "filterSection": {
+          "firstButton": "Сите",
+          "secondButton": "HR Кафе",
+          "thirdButton": "HR Викенд",
+          "fourthButton": "HR Вебинар",
+          "fifthButton": "HR Конференции",
+          "inputText": "Пребарај",
+          "allText": "Сите Настани"
+        },
+        "currentOpenedPage": {
+          "first": "Почетна",
+          "second": "Настани"
+        }
+      }
+    },
+    "en": {
+      "staticContent": {
+        "heroSection": {
+          "eventName": "Featured Event",
+          "event": "HR Coffee",
+          "eventText": "This Thursday, coffee on the topic of how to apply techniques and steps from self-coaching to better lead yourself... | July 25, 2024",
+          "buttonText": "Read more",
+          "contactUsText": "Follow us on social media"
+        },
+        "calendarSection": {
+          "mainParagparh": "Calendar with dates for all upcoming events",
+          "secondaryParagraph": "View all events arranged on the calendar. By clicking on the marked events, you can learn more information about each of the events, but for complete information, please refer to the individual event page."
+        },
+        "filterSection": {
+          "firstButton": "All",
+          "secondButton": "HR Coffee",
+          "thirdButton": "HR Weekend",
+          "fourthButton": "HR Webinar",
+          "fifthButton": "HR Conferences",
+          "inputText": "Search",
+          "allText": "All Events"
+        },
+        "currentOpenedPage": {
+          "first": "HomePage",
+          "second": "Events"
+        }
+      }
+    }
+  },
+  "navbar": {
+    "en": {
+      "first": "Informational content",
+      "second": "Educational content",
+      "third": "Annual Conference",
+      "fourth": "Events",
+      "fifth": "Blog",
+      "button": "Sign Up",
+      "drowdownFirst": "HR Coffee",
+      "drowdowsSecond": "HR Weekend",
+      "drowdownThird": "HR Webinar",
+      "drowdownFourh": "HR Conferences"
+    },
+    "mk": {
+      "first": "Информативни Содржини",
+      "second": "Едукативни Содржини",
+      "third": "Годишна Конференција",
+      "fourth": "Настани",
+      "fifth": "Блог",
+      "button": "Зачлени  ",
+      "drowdownFirst": "HR Кафе",
+      "drowdowsSecond": "HR Викенд",
+      "drowdownThird": "HR Вебинар",
+      "drowdownFourh": "HR Конференции"
+    }
+  },
+  "footer": {
+    "en": {
+      "adress": "Adress",
+      "email": "Е-mail",
+      "subscribeText": "Subscribe to the newsletter"
+    },
+    "mk": {
+      "adress": "Адреса",
+      "email": "Е-маил",
+      "subscribeText": "Претплати се на билтен"
+    }
+  }
+}
