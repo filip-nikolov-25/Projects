@@ -1,4 +1,4 @@
-<h1>Heyy I am Filip - Front-End Developer</h1>
+<h1>Heyy I am Filip... | Front-End Developer</h1>
 
 <h2>About me</h2>
 Goal-oriented Frontend Developer skilled in JavaScript, React, and Next.js, eager to create engaging user experiences and advance my professional career. I thrive on challenges and believe in continuous learning, always seeking opportunities to improve my skills.
