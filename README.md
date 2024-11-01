@@ -4,7 +4,7 @@
 Goal-oriented Frontend Developer skilled in JavaScript, React, and Next.js, eager to create engaging user experiences and advance my professional career. I thrive on challenges and believe in continuous learning, always seeking opportunities to improve my skills.
 I prioritize user experience in every project, focusing on intuitive navigation and visually appealing designs that resonate with users. My passion lies in developing innovative platforms that deliver high value, transforming ideas into functional applications. I’m committed to staying current with the latest technologies and best practices to ensure I deliver top-quality work.
 
-In addition to user experience, I place great emphasis on writing maintainable code, ensuring that my projects are easy to update and scale in the future. Creating fully responsive websites is another key focus; I strive to provide seamless experiences across all devices.
+In addition to user experience, I place great emphasis on writing maintainable code, ensuring that my projects are easy to update and scale in the future. Creating fully responsive websites is another key focus I strive to provide seamless experiences across all devices.
 
 I thrive in collaborative environments, valuing feedback and working together with others to achieve success. When faced with challenges, I approach them with creativity and determination, adapting to new situations with ease.
 
