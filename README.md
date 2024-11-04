@@ -8,7 +8,7 @@ In addition to user experience, I place great emphasis on writing maintainable c
 
 I thrive in collaborative environments, valuing feedback and working together with others to achieve success. When faced with challenges, I approach them with creativity and determination, adapting to new situations with ease.
 
-<h2> Safe Web Project 🌐</h2>
+<h2> Safe Web Project - Web Application 🌐</h2>
 
 Description: A platform that promotes safe browsing through interactive discussions and educational videos.
 Tech Stack: HTML, CSS, JavaScript
@@ -19,7 +19,7 @@ Badge System: Earn activity-based badges for milestones like watching videos and
 Profile Management: Register, log in, and update profile details, such as email and birth date.
 
 
-<h2>LargerWorld - Real World Client 🌍</h2>
+<h2>LargerWorld - Web Application</h2>
 
 **Project Overview**:  
 **larger.world** is a platform designed to introduce users to the concept of unlearning and its impact on building a more sustainable and inclusive world. The goal of this project is to inspire users to explore the platform's resources and become active members of the community.
@@ -47,7 +47,7 @@ Key Features:
 🎫 User Dashboard: View membership cards and manage profile information.
 🌐 Language Support: Automatic English translation when accessed outside Macedonia, with a manual language toggle.
 
-<h2> Sparkasse Bank Web Application 🚀</h2>
+<h2> Sparkasse Bank - Web Application 🚀</h2>
 Overview: The Sparkasse Bank web application, developed during a hackathon, is the first platform for financial education for young people in the country. It aims to inform and help young people learn more about investing and savings while providing a seamless banking experience. My team and I successfully integrated front-end and back-end functionalities, including user registration and login logic.
 
 Tech Stack: Next.js (for SEO) and Laravel PHP (for the backend)
