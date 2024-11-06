@@ -1,12 +1,15 @@
 <h1>Heyy I am Filip... | Front-End Developer</h1>
 
 <h2>About me</h2>
-Goal-oriented Frontend Developer skilled in JavaScript, React, and Next.js, eager to create engaging user experiences and advance my professional career. I thrive on challenges and believe in continuous learning, always seeking opportunities to improve my skills.
-I prioritize user experience in every project, focusing on intuitive navigation and visually appealing designs that resonate with users. My passion lies in developing innovative platforms that deliver high value, transforming ideas into functional applications. I’m committed to staying current with the latest technologies and best practices to ensure I deliver top-quality work.
+I am a dedicated Frontend Developer with expertise in JavaScript, React, and Next.js. I am passionate about creating engaging and intuitive user experiences and am always eager to advance my skills and grow my career. I enjoy tackling new challenges and believe that learning is a lifelong process. I am constantly seeking opportunities to improve my knowledge and stay up-to-date with the latest technologies. My focus is on building websites and applications that are not only functional but also user-friendly, with designs that are visually appealing and easy to navigate.
 
-In addition to user experience, I place great emphasis on writing maintainable code, ensuring that my projects are easy to update and scale in the future. Creating fully responsive websites is another key focus I strive to provide seamless experiences across all devices.
+I strive to make sure every project I work on delivers a great user experience. I put a lot of thought into creating designs and layouts that resonate with users, ensuring that navigation is simple and enjoyable. In every project, I focus on how users will interact with the platform and how to make their experience as smooth and intuitive as possible. My goal is to develop platforms that are not just visually pleasing but also practical and functional, solving real problems and delivering high value to users.
 
-I thrive in collaborative environments, valuing feedback and working together with others to achieve success. When faced with challenges, I approach them with creativity and determination, adapting to new situations with ease.
+I am committed to writing clean, maintainable code that is easy to update and scale. I know how important it is for code to be flexible and easy to work with in the future, especially as projects grow and change. I take the time to structure my code in a way that makes it simple for others to follow and for future updates to be implemented smoothly.
+
+Another priority of mine is making sure the websites and applications I build are fully responsive. I understand the importance of providing a seamless experience across all devices, whether users are browsing on a desktop, tablet, or smartphone. This is essential for ensuring that users can interact with the platform anytime, anywhere, without issues.
+
+My passion lies in transforming ideas into functional and innovative applications that solve problems and meet the needs of users. I’m always looking for ways to improve my work, stay ahead of trends, and ensure that I’m delivering the best possible results for the people who use my products. By focusing on user experience, maintainable code, and responsive design, I aim to create platforms that stand the test of time and provide lasting value to users.
 
 <h2> Safe Web Project - Web Application 🌐</h2>
 
