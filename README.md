@@ -64,6 +64,31 @@ Key Features:
 📊 Course Status: Track the status of each course, providing users with insights into their progress.
 📝 Quizzes: Assess understanding and retention with quizzes after course completion.
 
+
+<h2>My Portfolio </h2>
+
+Overview: 
+Here's a more detailed yet simple version of your description, emphasizing the features of your project:
+
+For my portfolio, I created an immersive space-like effect using HTML Canvas that brings both depth and motion to the design. The effect is based on dynamic circles that move and interact with the user’s mouse, creating a cosmic and responsive environment. This animation is powered by a JavaScript loop, which makes the elements shift, expand, and blend together in a way that feels like a peaceful night sky.
+
+The canvas animation is built using JavaScript and React hooks, allowing it to respond smoothly to user interactions, like mouse movement and window resizing. Custom code is used to generate animated circles, which vary in size and color, adding a sense of life and motion to the scene. The background is filled with a gradient, transitioning between cool tones, while the stars shine in different colors. This combination creates a visually captivating experience that feels both relaxing and dynamic.
+
+The circles themselves are carefully programmed to move within the boundaries of the canvas. They bounce off the edges and grow in size when the mouse comes close, making the interaction feel fluid and responsive. The colors of the circles are randomly chosen from a palette, adding variety and enhancing the visual appeal of the scene.
+
+The design ensures that the animation works well on all screen sizes. When the window is resized, the canvas and the circles automatically adjust, maintaining a smooth user experience. This responsive behavior makes sure that the effect looks great on any device, whether it’s a large desktop screen or a smaller mobile device.
+
+This space-like animation brings depth, motion, and interactivity to the homepage of my portfolio, creating an engaging and unique user experience. It’s a great example of how I can combine design and functionality, ensuring that the project is not only visually appealing but also responsive and interactive.
+
+Tech Stack:React.js
+
+Key Features:
+📅 Event Management: Browse upcoming MHRA events with calendar integration.
+📰 Blog Section: Access articles on HR practices, trends, and association updates.
+👥 MHRA Board: Meet the board members, view their roles and professional backgrounds.
+🎫 User Dashboard: View membership cards and manage profile information.
+🌐 Language Support: Automatic English translation when accessed outside Macedonia, with a manual language toggle.
+
 <h2>🛠️ My Toolkit</h2>
 - HTML
 - CSS
