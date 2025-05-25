@@ -17,3 +17,7 @@ export interface AllChords {
   bMajorORgMinor: ChordType;
   hMajorORgSharpMinor: ChordType;
 }
+export interface SongType {
+  name: string;
+  text: string;
+}
