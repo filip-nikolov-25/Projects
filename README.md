@@ -12,7 +12,7 @@ Another priority of mine is making sure the websites and applications I build ar
 
 My passion lies in transforming ideas into functional and innovative applications that solve problems and meet the needs of users. I’m always looking for ways to improve my work, stay ahead of trends, and ensure that I’m delivering the best possible results for the people who use my products. By focusing on user experience, maintainable code, and responsive design, I aim to create platforms that stand the test of time and provide lasting value to users.
 
-PROFESSIONAL EXPERIENCE
+<h2>PROFESSIONAL EXPERIENCE</h2>
 
 Software Engineer Intern, Pabau, On-site, North Macedonia (Feb 2025 - May 2025)
 
