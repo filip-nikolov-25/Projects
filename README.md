@@ -107,11 +107,17 @@ Tech Stack: Next.js (for SEO) and Laravel PHP (for the backend)
 Key Features:
 
 💳 User Registration: Secure and user-friendly registration process for new customers.
+
 🔐 Login Logic: Robust authentication system to ensure user privacy and security.
+
 📚 Courses and Badges: Offers personalized courses for users, allowing them to earn badges as they progress.
+
 👁️ Course Preview: Users can preview courses even if they are not registered, encouraging engagement.
+
 📊 Course Status: Track the status of each course, providing users with insights into their progress.
+
 📝 Quizzes: Assess understanding and retention with quizzes after course completion.
+
 
 
 <h2>My Portfolio </h2>
