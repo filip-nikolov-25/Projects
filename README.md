@@ -12,6 +12,22 @@ Another priority of mine is making sure the websites and applications I build ar
 
 My passion lies in transforming ideas into functional and innovative applications that solve problems and meet the needs of users. I’m always looking for ways to improve my work, stay ahead of trends, and ensure that I’m delivering the best possible results for the people who use my products. By focusing on user experience, maintainable code, and responsive design, I aim to create platforms that stand the test of time and provide lasting value to users.
 
+PROFESSIONAL EXPERIENCE
+
+Software Engineer Intern, Pabau, On-site, North Macedonia (Feb 2025 - May 2025)
+-Pabau is a UK healthtech company offering practice management software to 3,500+ medical
+and aesthetic clinics worldwide
+-Refactored front-end components by optimizing GraphQL data handling—replacing repeated
+refetching with cache-first strategies—significantly improving application performance and
+reducing unnecessary network traffic
+-Developed a range of advanced UI features, including drag-and-drop functionality for lab data
+management, to enhance user experience and streamline workflows
+-Resolved medium to P2-level production issues, improving frontend stability, performance,
+and user experience in a live environment.
+-Worked with PostgreSQL for querying and managing application data, contributing to data
+integrity and efficient backend integration
+-Tech stack: Next.js, TypeScript, Ant Design, GraphQL, Hasura, Prisma, PostgreSQL, MySQL
+
 <h2> Safe Web Project - Web Application 🌐</h2>
 
 Description: A platform that promotes safe browsing through interactive discussions and educational videos.
@@ -91,14 +107,16 @@ Key Features:
 🌐 Language Support: Automatic English translation when accessed outside Macedonia, with a manual language toggle.
 
 <h2>🛠️ My Toolkit</h2>
-- HTML
-- CSS
-- JavaScript
-- React
-- Redux
-- Next.js
-- Bootstrap
-- Tailwind CSS
--Version Control- GIT
+
+Frontend: React, Next.js, JavaScript, TypeScript, HTML5, CSS3, Redux, Zustand
+Backend: Hasura, GraphQL, Node.js, Express, PostgreSQL, Prisma
+Packages: Webpack, Rollup, Eslint, React Query, Material UI, AntDesign, Bootstrap, Tailwind CSS,
+Prettier, Vite, i18n
+Testing & DevOps: Unit Testing (Jest), CI/CD, Postman
+Tools: Jira, Git, Docker, Figma, React DevTools
+Operating Systems: Linux, iOS, Windows
+Soft Skills: Teamwork and Collaboration, Creativity and Innovation, Time Management and
+Organization
+Methodologies: Agile - (Scrum, Kanban)
 
 
