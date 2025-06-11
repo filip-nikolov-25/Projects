@@ -83,13 +83,21 @@ Profile Management: Register, log in, and update profile details, such as email 
 <h2> Macedonian Human Resources Association (MHRA) Web Application </h2>
 
 Overview: The MHRA web application provides members with easy access to association activities, upcoming events, and valuable resources, keeping members engaged with the latest HR community news.
+
 Tech Stack:Next.js
+
 Key Features:
+
 📅 Event Management: Browse upcoming MHRA events with calendar integration.
+
 📰 Blog Section: Access articles on HR practices, trends, and association updates.
+
 👥 MHRA Board: Meet the board members, view their roles and professional backgrounds.
+
 🎫 User Dashboard: View membership cards and manage profile information.
+
 🌐 Language Support: Automatic English translation when accessed outside Macedonia, with a manual language toggle.
+
 
 <h2> Sparkasse Bank - Web Application </h2>
 Overview: The Sparkasse Bank web application, developed during a hackathon, is the first platform for financial education for young people in the country. It aims to inform and help young people learn more about investing and savings while providing a seamless banking experience. My team and I successfully integrated front-end and back-end functionalities, including user registration and login logic.
