@@ -1,4 +1,4 @@
-<h1>Heyy I am Filip... | Front-End Developer</h1>
+<h1>I am Filip Nikolov | Front-End Developer</h1>
 
 <h2>About me</h2>
 
