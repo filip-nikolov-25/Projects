@@ -53,11 +53,17 @@ Methodologies: Agile - (Scrum, Kanban)
 <h2> Safe Web Project - Web Application </h2>
 
 Description: A platform that promotes safe browsing through interactive discussions and educational videos.
+
 Tech Stack: HTML, CSS, JavaScript
+
 Key Features:
+
 Discussions: Browse, participate, and start new discussions on safe web practices.
+
 Videos: Watch educational videos, with the ability to comment as a logged-in user.
+
 Badge System: Earn activity-based badges for milestones like watching videos and engaging in discussions.
+
 Profile Management: Register, log in, and update profile details, such as email and birth date.
 
 
