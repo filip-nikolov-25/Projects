@@ -3,9 +3,11 @@
 <h2>About me</h2>
 I am a dedicated Frontend Developer with expertise in JavaScript, React, and Next.js. I am passionate about creating engaging and intuitive user experiences and am always eager to advance my skills and grow my career. I enjoy tackling new challenges and believe that learning is a lifelong process. I am constantly seeking opportunities to improve my knowledge and stay up-to-date with the latest technologies. My focus is on building websites and applications that are not only functional but also user-friendly, with designs that are visually appealing and easy to navigate.
 
-I strive to make sure every project I work on delivers a great user experience. I put a lot of thought into creating designs and layouts that resonate with users, ensuring that navigation is simple and enjoyable. In every project, I focus on how users will interact with the platform and how to make their experience as smooth and intuitive as possible. My goal is to develop platforms that are not just visually pleasing but also practical and functional, solving real problems and delivering high value to users.
-
-I am committed to writing clean, maintainable code that is easy to update and scale. I know how important it is for code to be flexible and easy to work with in the future, especially as projects grow and change. I take the time to structure my code in a way that makes it simple for others to follow and for future updates to be implemented smoothly.
+Innovative and strategic Software Engineer with a strong focus on modern frontend development.
+Specialized in JavaScript (ES6+), TypeScript, React.js, HTML5, and CSS3, with deep knowledge of
+their surrounding ecosystem. Skilled in building scalable, high-performance applications within Agile
+environments. Experienced in architecting clean, maintainable codebases, optimizing UI
+performance, and collaborating effectively across cross-functional teams.
 
 Another priority of mine is making sure the websites and applications I build are fully responsive. I understand the importance of providing a seamless experience across all devices, whether users are browsing on a desktop, tablet, or smartphone. This is essential for ensuring that users can interact with the platform anytime, anywhere, without issues.
 
