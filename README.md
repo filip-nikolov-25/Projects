@@ -12,7 +12,7 @@ Another thing i care is making sure the websites and applications I build are fu
 
 <h2>PROFESSIONAL EXPERIENCE</h2>
 
-Software Engineer Intern, Pabau, On-site, North Macedonia (Feb 2025 - May 2025)
+<h2>Software Engineer Intern, Pabau, On-site, North Macedonia (Feb 2025 - May 2025)</h2>
 
 -Pabau is a UK healthtech company offering practice management software to 3,500+ medical
 and aesthetic clinics worldwide
