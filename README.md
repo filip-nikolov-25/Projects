@@ -32,7 +32,25 @@ and user experience in a live environment.
 -Worked with PostgreSQL for querying and managing application data, contributing to data
 integrity and efficient backend integration
 
--Tech stack: Next.js, TypeScript, Ant Design, GraphQL, Hasura, Prisma, PostgreSQL, MySQL
+<h2>🛠️ My Toolkit</h2>
+
+Frontend: React, Next.js, JavaScript, TypeScript, HTML5, CSS3, Redux, Zustand
+
+Backend: Hasura, GraphQL, Node.js, Express, PostgreSQL, Prisma
+
+Packages: Webpack, Rollup, Eslint, React Query, Material UI, AntDesign, Bootstrap, Tailwind CSS,
+Prettier, Vite, i18n
+
+Testing & DevOps: Unit Testing (Jest), CI/CD, Postman
+
+Tools: Jira, Git, Docker, Figma, React DevTools
+
+Operating Systems: Linux, iOS, Windows
+
+Soft Skills: Teamwork and Collaboration, Creativity and Innovation, Time Management and
+Organization
+
+Methodologies: Agile - (Scrum, Kanban)
 
 <h2> Safe Web Project - Web Application 🌐</h2>
 
@@ -112,24 +130,5 @@ Key Features:
 🎫 User Dashboard: View membership cards and manage profile information.
 🌐 Language Support: Automatic English translation when accessed outside Macedonia, with a manual language toggle.
 
-<h2>🛠️ My Toolkit</h2>
-
-Frontend: React, Next.js, JavaScript, TypeScript, HTML5, CSS3, Redux, Zustand
-
-Backend: Hasura, GraphQL, Node.js, Express, PostgreSQL, Prisma
-
-Packages: Webpack, Rollup, Eslint, React Query, Material UI, AntDesign, Bootstrap, Tailwind CSS,
-Prettier, Vite, i18n
-
-Testing & DevOps: Unit Testing (Jest), CI/CD, Postman
-
-Tools: Jira, Git, Docker, Figma, React DevTools
-
-Operating Systems: Linux, iOS, Windows
-
-Soft Skills: Teamwork and Collaboration, Creativity and Innovation, Time Management and
-Organization
-
-Methodologies: Agile - (Scrum, Kanban)
 
 
