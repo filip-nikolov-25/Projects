@@ -123,13 +123,12 @@ Key Features:
 <h2>My Portfolio </h2>
 
 Overview: 
-Here's a more detailed yet simple version of your description, emphasizing the features of your project:
 
 For my portfolio, I created an immersive space-like effect using HTML Canvas that brings both depth and motion to the design. The effect is based on dynamic circles that move and interact with the user’s mouse, creating a cosmic and responsive environment. This animation is powered by a JavaScript loop, which makes the elements shift, expand, and blend together in a way that feels like a peaceful night sky.
 
 The canvas animation is built using JavaScript and React hooks, allowing it to respond smoothly to user interactions, like mouse movement and window resizing. Custom code is used to generate animated circles, which vary in size and color, adding a sense of life and motion to the scene. The background is filled with a gradient, transitioning between cool tones, while the stars shine in different colors. This combination creates a visually captivating experience that feels both relaxing and dynamic.
 
-The circles themselves are carefully programmed to move within the boundaries of the canvas. They bounce off the edges and grow in size when the mouse comes close, making the interaction feel fluid and responsive. The colors of the circles are randomly chosen from a palette, adding variety and enhancing the visual appeal of the scene.
+The circles themselves are programmed to move within the boundaries of the canvas. They bounce off the edges and grow in size when the mouse comes close, making the interaction feel fluid and responsive. The colors of the circles are randomly chosen from a palette, adding variety and enhancing the visual appeal of the scene.
 
 The design ensures that the animation works well on all screen sizes. When the window is resized, the canvas and the circles automatically adjust, maintaining a smooth user experience. This responsive behavior makes sure that the effect looks great on any device, whether it’s a large desktop screen or a smaller mobile device.
 
