@@ -8,9 +8,7 @@ their surrounding ecosystem. Skilled in building scalable, high-performance appl
 environments. Experienced in architecting clean, maintainable codebases, optimizing UI
 performance, and collaborating effectively across cross-functional teams.
 
-Another priority of mine is making sure the websites and applications I build are fully responsive. I understand the importance of providing a seamless experience across all devices, whether users are browsing on a desktop, tablet, or smartphone. This is essential for ensuring that users can interact with the platform anytime, anywhere, without issues.
-
-My passion lies in transforming ideas into functional and innovative applications that solve problems and meet the needs of users. I’m always looking for ways to improve my work, stay ahead of trends, and ensure that I’m delivering the best possible results for the people who use my products. By focusing on user experience, maintainable code, and responsive design, I aim to create platforms that stand the test of time and provide lasting value to users.
+Another thing i care is making sure the websites and applications I build are fully responsive. I understand the importance of providing a seamless experience across all devices, whether users are browsing on a desktop, tablet, or smartphone. This is essential for ensuring that users can interact with the platform anytime, anywhere, without issues.
 
 <h2>PROFESSIONAL EXPERIENCE</h2>
 
