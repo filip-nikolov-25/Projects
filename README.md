@@ -1,7 +1,6 @@
 <h1>Heyy I am Filip... | Front-End Developer</h1>
 
 <h2>About me</h2>
-I am a dedicated Frontend Developer with expertise in JavaScript, React, and Next.js. I am passionate about creating engaging and intuitive user experiences and am always eager to advance my skills and grow my career. I enjoy tackling new challenges and believe that learning is a lifelong process. I am constantly seeking opportunities to improve my knowledge and stay up-to-date with the latest technologies. My focus is on building websites and applications that are not only functional but also user-friendly, with designs that are visually appealing and easy to navigate.
 
 Innovative and strategic Software Engineer with a strong focus on modern frontend development.
 Specialized in JavaScript (ES6+), TypeScript, React.js, HTML5, and CSS3, with deep knowledge of
