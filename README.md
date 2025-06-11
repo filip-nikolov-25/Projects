@@ -15,17 +15,23 @@ My passion lies in transforming ideas into functional and innovative application
 PROFESSIONAL EXPERIENCE
 
 Software Engineer Intern, Pabau, On-site, North Macedonia (Feb 2025 - May 2025)
+
 -Pabau is a UK healthtech company offering practice management software to 3,500+ medical
 and aesthetic clinics worldwide
+
 -Refactored front-end components by optimizing GraphQL data handling—replacing repeated
 refetching with cache-first strategies—significantly improving application performance and
 reducing unnecessary network traffic
+
 -Developed a range of advanced UI features, including drag-and-drop functionality for lab data
 management, to enhance user experience and streamline workflows
+
 -Resolved medium to P2-level production issues, improving frontend stability, performance,
 and user experience in a live environment.
+
 -Worked with PostgreSQL for querying and managing application data, contributing to data
 integrity and efficient backend integration
+
 -Tech stack: Next.js, TypeScript, Ant Design, GraphQL, Hasura, Prisma, PostgreSQL, MySQL
 
 <h2> Safe Web Project - Web Application 🌐</h2>
