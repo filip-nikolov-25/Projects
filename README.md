@@ -132,7 +132,6 @@ The circles themselves are programmed to move within the boundaries of the canva
 
 The design ensures that the animation works well on all screen sizes. When the window is resized, the canvas and the circles automatically adjust, maintaining a smooth user experience. This responsive behavior makes sure that the effect looks great on any device, whether it’s a large desktop screen or a smaller mobile device.
 
-This space-like animation brings depth, motion, and interactivity to the homepage of my portfolio, creating an engaging and unique user experience. It’s a great example of how I can combine design and functionality, ensuring that the project is not only visually appealing but also responsive and interactive.
 
 Tech Stack:React.js,Typescript,Canvas
 
